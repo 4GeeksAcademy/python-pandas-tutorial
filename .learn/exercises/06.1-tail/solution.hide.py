@@ -1,4 +1,6 @@
 import pandas as pd
 
 data_frame = pd.read_csv('.learn/assets/pokemon_data.csv')
-print(data_frame[['Name','Type 1']][0:10])
+
+# we can read just the first 3 rows
+print(data_frame.tail(3))
