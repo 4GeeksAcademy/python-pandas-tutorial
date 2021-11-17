@@ -1,31 +1,21 @@
 # Create your script
 
-Let's create our first python script that uses the panda library.
+Python is a scripting language, meaning that to run python code you don't need to compile, all you have to do is create a file with the `.py` extension and running using `python name_of_file.py`.
+Let's create our first python script.
 
 ## 📝 Instructions
 
-1. Close the pokemon_data.csv 
-2. Create a new `app.py` file in the root of the project, make sure you are in the root.
+
+1. Create a new `app.py` file in the root of the project, make sure you are in the root.
 Your `app.py` file must be next to the `.gitignore`, `learn.json` or `Pipfile` files.
 You can also create the file using the terminal command: `$ touch app.py` and open it by double clicking on the file name or typing `$ code app.py`.
 
-2. Type `import pandas` inside the file to import the pandas library.
-3. Use the pandas read_csv function to open the CSV file.
-4. print the file on the terminal using the `print` function.
+2. Add the code to pring "hello world" on the terminal using the `print` function.
 
-## 💡 Your code should be something like this
+3. run your python script by typing `$ python app.py` in the terminal and press the `enter` key.
 
-```python
-import pandas as pd
-
-data_frame = pd.read_csv('.learn/assets/pokemon_data.csv')
-print(data_frame)
-```
-
-Note:  the read_csv function returns something called a `DataFrame`, we will be referring to that `data_frame` variable from now on.
-
-## Compare your output
+## 💻 Compare your output
 
 After you run the command you should see something like this:
 
-![print file](../../assets/print-file.png)
+![print file](../../assets/hello.png)

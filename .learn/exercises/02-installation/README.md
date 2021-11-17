@@ -2,7 +2,7 @@
 
 Let's start by installing Pandas.
 
-Over the internet you will find the `pip` command being used to install python packages, we prefer to use `pipenv` as it provides more functionality and avoids future maintance headings by combining `pip` with `virtual env` libraries.
+Over the internet you will find the `pip` command being used to install python packages, we prefer to use [pipenv](https://pipenv.pypa.io/en/latest/) as it provides more functionality and avoids future maintance headings by combining [pip](https://pip.pypa.io/en/stable/) and [virtual env](https://virtualenv.pypa.io/en/latest/) libraries.
 
 Please type the following command in the terminal:
 
