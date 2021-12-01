@@ -1,4 +1,4 @@
-# Create your script
+# Import pandas
 
 Now let's add Pandas into our script by using the `import` command.
 
@@ -19,10 +19,10 @@ data_frame = pd.read_csv('.learn/assets/pokemon_data.csv')
 print(data_frame)
 ```
 
-Note:  the read_csv function returns something called a `DataFrame`, we will be referring to that `data_frame` variable from now on.
+Note: The read_csv function returns something called a `DataFrame`, we will be referring to that `data_frame` variable from now on.
 
 ## Compare your output
 
-After you run the command you should see something like this:
+Run your script and you should see the following output:
 
 ![print file](../../assets/print-file.png)

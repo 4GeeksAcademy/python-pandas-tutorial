@@ -1,6 +1,6 @@
-# `08` Pandas Data Frame
+# DataFrame iLoc
 
-DataFrame is just a fancy word for "table" or "tabulated data". You can create DataFrame from any dataset.
+The iloc
 
 ```python
 # Print only item in the Row: 2, Col: 1

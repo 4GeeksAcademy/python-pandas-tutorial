@@ -10,9 +10,13 @@ Let's create our first python script.
 Your `app.py` file must be next to the `.gitignore`, `learn.json` or `Pipfile` files.
 You can also create the file using the terminal command: `$ touch app.py` and open it by double clicking on the file name or typing `$ code app.py`.
 
-2. Add the code to pring "hello world" on the terminal using the `print` function.
+2. Add the code to print "hello world" on the terminal using the `print` function.
 
-3. run your python script by typing `$ python app.py` in the terminal and press the `enter` key.
+```py
+print("Hello World")
+```
+
+3. Run your python script by typing on the terminal `$ python app.py`.
 
 ## 💻 Compare your output
 

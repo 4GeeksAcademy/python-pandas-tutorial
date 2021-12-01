@@ -1,8 +1,8 @@
 # `02` Installing Pandas
 
-Let's start by installing Pandas.
+Let's kickoff our environment by installing Pandas.
 
-Over the internet you will find the `pip` command being used to install python packages, we prefer to use [pipenv](https://pipenv.pypa.io/en/latest/) as it provides more functionality and avoids future maintance headings by combining [pip](https://pip.pypa.io/en/stable/) and [virtual env](https://virtualenv.pypa.io/en/latest/) libraries.
+Over the internet you will find the `pip` command being used to install python packages, we prefer to use [pipenv](https://pipenv.pypa.io/en/latest/) as it provides more functionality and avoids future maintance headaches by combining [pip](https://pip.pypa.io/en/stable/) and [virtual env](https://virtualenv.pypa.io/en/latest/) libraries.
 
 Please type the following command in the terminal:
 
@@ -14,8 +14,6 @@ You should see in your terminal an output like this:
 
 ![Pipenv isntall pandas](../../assets/pipenv-pandas.png)
 
-## 💡 Hint:
+## 🚨 Important:
 
-- If you cannot type or find your terminal try opening a new terminal form the menu.
-
-![New terminal](../../assets/new-terminal.png)
+Remember you have to be inside the evironment shell from now on.

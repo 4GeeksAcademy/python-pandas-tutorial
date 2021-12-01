@@ -17,7 +17,6 @@
   "webpackTemplate": null,
   "disableGrading": false,
   "actions": [
-    "build",
     "test",
     "reset"
   ],

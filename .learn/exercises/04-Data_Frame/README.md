@@ -1,11 +1,11 @@
-# `08` Pandas Data Frame
+# Pandas Data Frame
 
-DataFrame is just a fancy word for "table" or "tabulated data". You can create DataFrame from any dataset.
+DataFrame's are a similar concept to "tables" or "tabulated data". You can create DataFrame from any dataset.
 
 ![dataframe](../../assets/dataframe.jpeg)
 
 
-You can manually create a DataFrame with the following code:
+You can manually create a DataFrame from a python list with the following code:
 
 ```python
 import pandas as pd
@@ -21,7 +21,7 @@ print(df)
 
 ## 📝 Instructions
 
-Please create a dataframe with the following data, the column labels will be: `Brand, Make, Color`
+Please create and print a dataframe with the following data, the column labels will be: `Brand, Make, Color`
 
 ```python
 data = [["Toyota", "Corolla", "Blue"], ["Ford", "K", "Yellow"], ["Porche", "Cayenne", "White"]]
@@ -29,7 +29,9 @@ data = [["Toyota", "Corolla", "Blue"], ["Ford", "K", "Yellow"], ["Porche", "Caye
 
 ## 💻 Expected output
 
-```
+Run your code in the terminal and the output should be similar to this:
+
+```bash
     Brand     Make   Color
 0  Toyota  Corolla    Blue
 1    Ford        K  Yellow
