@@ -1,5 +1,5 @@
 import pandas as pd
 
-date_series = pd.date_range(start = '05-01-2021', end = '05-12-2021')
-
-print(date_series)
+data_frame = pd.read_csv('.learn/assets/us_baby_names_right.csv')
+names = data_frame.groupby("Name").sum()
+print(len(names))
