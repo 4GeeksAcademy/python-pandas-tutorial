@@ -1,9 +1,11 @@
 # Print columns
 
-You can also print jsut one collumn of your choice, for example:
+You can also print just one collumn of your choice, for example:
+
 ```python
 print(data_frame['Type 1']) #this will print only the column "Type 1"
 ```
+
 You can also use the square brackets `[]` to pick the range of rows you want to print like this:
 
 ```python

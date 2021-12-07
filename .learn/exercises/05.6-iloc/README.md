@@ -1,6 +1,6 @@
-# DataFrame iLoc
+# Using the iloc function in Pandas
 
-The iloc
+Pandas has a way to retrieve values by specifying the row and column number, for example: 2,4 (row 2, column 4).
 
 ```python
 # Print only item in the Row: 2, Col: 1

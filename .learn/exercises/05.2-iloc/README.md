@@ -1,6 +1,6 @@
-# `08` Using the iloc function in Pandas
+# DataFrame iLoc
 
-Pandas has a way to retrieve values by specifying the row and column number, for example: 2,4 (row 2, column 4).
+The iloc command lets you retrieve any cel in your data_frame, for example to print the cel in the `x-axis: 2` and `y-axis: 4` we would have to type the following:
 
 ```python
 # Print only item in the Row: 2, Col: 1
