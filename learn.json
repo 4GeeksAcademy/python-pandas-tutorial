@@ -1,33 +1,6 @@
 {
-  "port": 3000,
-  "address": "http://localhost",
-  "editor": {
-    "mode": null,
-    "agent": null,
-    "version": null
-  },
-  "dirPath": "./.learn",
-  "configPath": "./learn.json",
-  "outputPath": "./.learn/dist",
-  "publicPath": "/preview",
-  "publicUrl": null,
-  "language": "auto",
   "grading": "incremental",
-  "exercisesPath": "./",
-  "webpackTemplate": null,
-  "disableGrading": false,
-  "actions": [
-    "test",
-    "reset"
-  ],
-  "entries": {
-    "html": "index.html",
-    "vanillajs": "index.js",
-    "react": "app.jsx",
-    "node": "app.js",
-    "python3": "app.py",
-    "java": "app.java"
-  },
+  "disabledActions": ["build"],
   "difficulty": "beginner",
   "duration": 3,
   "description": "Learn the basics and become comfortable using pandas for manipulating machine learning datasets .",

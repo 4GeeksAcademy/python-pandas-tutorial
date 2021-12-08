@@ -26,7 +26,7 @@ Create a series from this list: `ages = [23,45,7,34,6,63,36,78,54,34]`
 
 ## 💻 Expected output
 
-```
+```bash
 0    23
 1    45
 2     7
