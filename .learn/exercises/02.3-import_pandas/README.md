@@ -1,4 +1,4 @@
-# Import pandas
+# `02.3` Import pandas
 
 Now let's add Pandas into our script by using the `import` command.
 
@@ -6,7 +6,7 @@ The `import` command is meant for loading 3rd part libraries (like pandas) or ot
 
 ## 📝 Instructions
 
-1. Type `import pandas as pd` inside the file to import the pandas library.
+1. Type `import pandas as pd` inside the file `app.py` to import the pandas library.
 2. Use the pandas read_csv function to import the content of the CSV file into a variable.
 3. print the variable on the terminal using the `print` function.
 
