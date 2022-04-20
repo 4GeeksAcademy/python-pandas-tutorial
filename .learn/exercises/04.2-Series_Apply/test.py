@@ -14,9 +14,6 @@ def test_output():
     content = f.read()
     assert content.find("print(") > 0
 
-@pytest.mark.it('The variable my_series should exist')
-def test_variable_existence():
-    from app import my_series
 
 @pytest.mark.it('The output should be the expected')
 def test_expected_output(capsys):
@@ -27,4 +24,9 @@ def test_expected_output(capsys):
 2    3.0
 3    4.0
 4    5.0
-dtype: float64"""
+dtype: float64
+"""
+
+@pytest.mark.it('The variable my_series should exist')
+def test_variable_existence():
+    from app import my_series

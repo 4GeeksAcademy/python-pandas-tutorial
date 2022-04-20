@@ -1,5 +1,6 @@
 import pytest, io, os, sys, re
 
+
 @pytest.mark.it('You must import pandas')
 def test_import_pandas():
     path = os.path.dirname(os.path.abspath('app.py'))+'/app.py'
@@ -8,15 +9,11 @@ def test_import_pandas():
         regex = re.compile(r"import\s*pandas")
         assert bool(regex.search(content)) == True
 
-@pytest.mark.it('The variable ages must exist')
-def test_vatiable_existence():
-    from app import ages
-
 @pytest.mark.it("Use the print function")
 def test_output():
     f = open(os.path.dirname(os.path.abspath('app.py')) + '/app.py')
     content = f.read()
-    assert content.find("print(") > 0
+    assert content.find("print") > 0
 
 @pytest.mark.it('The output should be the expected')
 def test_expected_output(capsys):
@@ -34,3 +31,7 @@ def test_expected_output(capsys):
 9    34
 dtype: int64
 """
+
+@pytest.mark.it('The variable ages must exist')
+def test_vatiable_existence():
+    from app import ages
