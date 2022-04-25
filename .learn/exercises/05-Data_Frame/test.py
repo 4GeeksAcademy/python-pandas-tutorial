@@ -15,7 +15,7 @@ def test_output():
     assert "print(" in content
 
 
-@pytest.mark.it('The output should be the expected')
+@pytest.mark.it('The output should be the expected.')
 def test_expected_output(capsys):
     import app
     captured = capsys.readouterr()
