@@ -21,7 +21,7 @@ print(df)
 
 ## 📝 Instructions
 
-Please create and print a dataframe with the following data, the column labels will be: `Brand, Make, Color`
+Please create and print a dataframe with the following data, the column labels will be: `Brand, Model, Color`
 
 ```python
 data = [["Toyota", "Corolla", "Blue"], ["Ford", "K", "Yellow"], ["Porche", "Cayenne", "White"]]
@@ -32,7 +32,7 @@ data = [["Toyota", "Corolla", "Blue"], ["Ford", "K", "Yellow"], ["Porche", "Caye
 Run your code in the terminal and the output should be similar to this:
 
 ```bash
-    Brand     Make   Color
+    Brand     Model   Color
 0  Toyota  Corolla    Blue
 1    Ford        K  Yellow
 2  Porche  Cayenne   White
