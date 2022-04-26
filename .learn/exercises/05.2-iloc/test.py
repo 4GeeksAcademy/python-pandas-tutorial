@@ -19,4 +19,4 @@ def test_output():
 def test_expected_output(capsys):
     import app
     captured = capsys.readouterr()
-    assert captured.out == ""
+    assert captured.out == "35\n"
