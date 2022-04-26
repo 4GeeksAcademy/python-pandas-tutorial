@@ -1,7 +1,7 @@
 <!-- hide -->
 # Welcome to Pandas for Machine Learning
 
-By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors">other contributors</a> at <a href="http://4geeksacademy.co/">4Geeks Academy</a><a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/python-lists-loops-programming-exercises/master/python-lp-badge.png"></a>
+By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors">other contributors</a> at <a href="http://4geeksacademy.co/">4Geeks Academy</a><a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/python-pandas-tutorial/blob/main/.learn/assets/pandas_cover.png?raw=true"></a>
 <!-- endhide -->
 Pandas is the #1 library for Machine Learning, there is no way you can do anything without it. 
 This interactive tutorial will help you become familiar on it, master the most used functionalities and help you clean up your first datasets.
