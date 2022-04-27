@@ -3,7 +3,7 @@ import io, os, sys, pytest, re
 
 @pytest.mark.it('You must import pandas')
 def test_import_pandas():
-    path = os.path.dirname(os.path.abspath('app.py'))+'/app.py'
+    path = 'app.py'
     with open(path, 'r') as content_file:
         content = content_file.read()
         regex = re.compile(r"import\s*pandas\s*as\s*pd")
@@ -26,4 +26,3 @@ def test_expected_output(capsys):
 3  11353    Grace  2004      F    AK     44
 4  11354    Emily  2004      F    AK     41
 """
-
