@@ -5,5 +5,3 @@ def test_output():
     f = open(os.path.dirname(os.path.abspath('Pipfile.lock')+'/Pipfile.lock'))
     content = f.read()
     assert content.find("pandas") > 0
-
-
