@@ -1,4 +1,4 @@
-# Series
+# `04` Series
 
 A series is similar to an array or list, it's a one dimentional data structure.
 
