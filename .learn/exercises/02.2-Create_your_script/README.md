@@ -6,7 +6,6 @@ Let's create our first python script.
 
 ## 📝 Instructions:
 
-
 1. Create a new `app.py` file in the root of the project. (Make sure you are in the root).
 
 2. Add the code to print "hello world" on the terminal using the `print` function.

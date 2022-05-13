@@ -4,7 +4,7 @@ We are very excited to have you here! 🎉 😂
 
 Being a Machine Learning developer without Pandas is like being a handyman without a hammer. Why would you put yourself through that husle?
 
-> Pandas has so many benefits that we don't have enought time to list them all, so here is just a few:
+> Pandas has so many benefits that we don't have enought time to list them all, so here are just a few:
 
 1. Data representation: This helps to analyze and understand data better. Simpler data = better results.
 

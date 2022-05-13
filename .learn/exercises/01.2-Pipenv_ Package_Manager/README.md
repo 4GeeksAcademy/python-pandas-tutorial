@@ -12,7 +12,7 @@ We are using pipenv as our package and environment manager.
 $ pipenv shell
 ```
 
-## Expected result:
+## Expected Result:
 
 Read the command line output, it should say that "Lanching subshell...." and no error should be visible.
 
