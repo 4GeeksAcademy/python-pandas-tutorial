@@ -2,9 +2,11 @@
 
 Are there more male or female names in the dataset?
 
-Hint: use the value_counts function to get the `Gender` value count.
+## 📝 Instructions:
 
-## 💻 Expected output
+1. Use the `value_counts` function to get the `Gender` value count.
+
+## Expected Result:
 
 ```bash
 F    558846

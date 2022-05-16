@@ -1,9 +1,15 @@
-# Filter and cound
+# Filter and count
 
 How many pokemos are legendary?
 
-Hint: use the loc function with a logica operation as index, use the `len` function to count.
+## 📝 Instructions:
 
-## 💻 Expected output
+1. Use the `loc` function with a logical operation as index. 
+
+## Expected Result:
 
 `65`
+
+## 💡Hint:
+
+ + Use the `len` function to count.

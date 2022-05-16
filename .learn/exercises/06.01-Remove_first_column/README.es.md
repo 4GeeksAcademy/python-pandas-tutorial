@@ -1,14 +1,14 @@
 # Remove First Column
 
-We can see that the first column of the Dataset is called "Unnamed: 0" and it contains a number that we don't know what it is.
+Podemos ver que la primera columna del Dataset se llama "Unnamed: 0", y contiene un número que no sabemos que es.
 
-## 📝 Instructions:
+## 📝 Instrucciones:
 
-1. Remove the first column from the Dataset.
+1. Elimina la primera columna del Dataset.
 
-2. Print the first 5 records again.
+2. Imprime los primeros 5 registros de nuevo.
 
-## Expected Result:
+## Resultado Esperado:
 
 ```bash
       Id     Name  Year Gender State  Count

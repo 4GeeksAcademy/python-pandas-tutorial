@@ -1,7 +1,8 @@
 # Pandas Data Frame from Dictionary
 
 Another way to organize your data before creating a DataFrame will be using `dict` instead of `list`.
-In this example we have a list of dicts that makes easier to read the data before creating the dataframe.
+
+In this example we have a list of `dicts` that makes easier to read the data before creating the DataFrame.
 
 ```python
 data = [
@@ -23,11 +24,11 @@ data = [
 ]
 ```
 
-## 📝 Instructions
+## 📝 Instructions:
 
-Use this data to create a dataframe but add a new row for a red, Tesla, model S.
+1. Use this data to create a DataFrame but add a new row for a red, Tesla, model S.
 
-## 💻 Expected output
+## Expected Result:
 
 ```bash
     Brand     Make   Color
