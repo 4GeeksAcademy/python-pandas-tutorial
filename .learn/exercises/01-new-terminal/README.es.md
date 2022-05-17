@@ -1,4 +1,4 @@
-# `01` How to open a new terminal
+# `01` New Terminal
 
 Este motor de ejercicios se hace cargo de tu terminal, eso significa que no puedes escribir en el terminal actual en la parte inferior de tu pantalla.
 

@@ -1,4 +1,4 @@
-# `02.2` Create your script
+# `02.1` Create a Script
 
 Python es un lenguaje de secuencias de comandos, lo que significa que para ejecutar el código de Python no es necesario copilar, todo lo que tienes que hacer es crear un archivo con la extensión `.py` y correrlo utilizando `python name_of_file.py`.
 

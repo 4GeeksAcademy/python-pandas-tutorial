@@ -1,4 +1,4 @@
-# `00` Welcome to Pandas!
+# `00` Welcome 
 
 ¡Estamos muy entusiasmados por tenerte aquí! 🎉 😂
 

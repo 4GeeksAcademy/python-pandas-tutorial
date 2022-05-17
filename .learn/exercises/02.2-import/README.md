@@ -1,4 +1,4 @@
-# `02.3` Import Pandas
+# `02.2` Import 
 
 Now let's add Pandas into our script by using the `import` command.
 
