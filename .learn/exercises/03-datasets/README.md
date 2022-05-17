@@ -1,4 +1,4 @@
-# `03` Download the Dataset
+# `03` Datasets
 
 In Machine Learning "Datasets" are the data we use for our experiments. We usually feed these Datasets to "models" and experiment in different ways, the goal is always to predict something.
 

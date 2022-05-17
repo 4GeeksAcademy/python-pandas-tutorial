@@ -1,4 +1,4 @@
-# `01` How to open a new terminal
+# `01` New Terminal
 
 This exercise engine takes over your terminal, meaning that you cannot type on the current terminal at the bottom of your screen.
 

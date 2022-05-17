@@ -1,4 +1,4 @@
-# `01.2` Pipenv: Package Manager
+# `01.2` Pipenv
 
 Antes de empezar cuaquier proyecto de Python, siempre es buena idea crear un nuevo enviroment (entorno). Los entornos aislados de Python previenen errores y hacen que su aplicación  sea independiente.
  

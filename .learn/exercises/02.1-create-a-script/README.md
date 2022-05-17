@@ -1,4 +1,4 @@
-# `02.2` Create your script
+# `02.1` Create a Script
 
 Python is a scripting language, meaning that to run a Python code you don't need to compile, all you have to do is create a file with the `.py` extension and run it by using `python name_of_file.py`.
 

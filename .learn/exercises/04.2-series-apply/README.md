@@ -1,4 +1,4 @@
-# Series Apply
+# `04.2` Series Apply
 
 Given a series variable like:
 

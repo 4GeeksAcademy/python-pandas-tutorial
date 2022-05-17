@@ -1,4 +1,4 @@
-# `02` Installing Pandas
+# `02` Install
 
 Iniciemos nuestro entorno instalando Pandas.
 

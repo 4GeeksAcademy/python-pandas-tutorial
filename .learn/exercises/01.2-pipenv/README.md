@@ -1,4 +1,4 @@
-# `01.2` Pipenv: Package Manager
+# `01.2` Pipenv
 
 Before starting any Python project is always a good idea to create a new environment. An isolated Python environment prevents bugs and makes your application independent.
 
