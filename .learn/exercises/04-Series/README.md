@@ -20,11 +20,11 @@ The result of printing `data` on the terminal will be something like this:
 dtype: int64
 ```
 
-## 📝 Instructions
+## 📝 Instructions:
 
 Create a series from this list: `ages = [23,45,7,34,6,63,36,78,54,34]`
 
-## 💻 Expected output
+## Expected Result:
 
 ```bash
 0    23

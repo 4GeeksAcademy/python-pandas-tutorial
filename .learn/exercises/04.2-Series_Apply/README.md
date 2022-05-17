@@ -6,9 +6,11 @@ Given a series variable like:
 my_series = pd.Series([2, 4, 6, 8, 10])
 ```
 
-Use the function my_series.apply to divide all numbers on the following series by 2.
+## 📝 Instructions: 
 
-## 💻 Expected output
+1. Use the function `my_series.apply` to divide all numbers on the following series by 2.
+
+## Expected Result:
 
 ```bash
 0    1.0
