@@ -1,17 +1,17 @@
-# Using  loc function in Pandas
+# `05.6` Loc Function 
 
-You can also use the data_frame.loc function to filter records using logical operations as indexes, like this:
+Puedes usar la función `data_frame.loc` para filtrar registros usando operaciones lógicas como índices, así:
 
 ```python
-# get people more than 18 years old
+# conseguir personas mayores de 18 años
 data_frame.loc[data_frame['age'] < 18]
 ```
 
-## 📝 Instructions
+## 📝 Instrucciones:
 
-Using the loc function, print on the terminal all pokemons with an atack of more than 80
+1. Usando la función `loc`, imprime en el terminal todos los pokemons con un ataque de mas de 80.
 
-## 💻 Expected output
+## Resultado Esperado: 
 
 ```bash
        #                       Name   Type 1  Type 2  HP  Attack  Defense  Sp. Atk  Sp. Def  Speed  Generation  Legendary
