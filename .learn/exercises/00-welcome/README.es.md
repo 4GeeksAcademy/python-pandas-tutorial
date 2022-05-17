@@ -18,7 +18,7 @@ Ser un desarrollador de Machine Learning sin Pandas es como ser un obrero sin un
 
 ## 💬 Fundamentos: 
 
-Durante este curso te vamos a enseñar las funcionalidades más populares de Pandas, y a ayudarte a escribir tu propio código de Python con ello. Vas a estar a estar aprendiendo:
+Durante este curso te vamos a enseñar las funcionalidades más populares de Pandas, y a ayudarte a escribir tu propio código de Python con ello. Vas a estar aprendiendo:
 
 + Cómo instalar Pandas.
 
