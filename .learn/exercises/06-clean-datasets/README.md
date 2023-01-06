@@ -1,6 +1,6 @@
 # `06` Clean Datasets
 
-Let's start a new clean exercise to clean up a publicly known Datasate of [US baby names](https://www.kaggle.com/kaggle/us-baby-names) from Kaggle.
+Let's start a new clean exercise to clean up a publicly known Dataset of [US baby names](https://www.kaggle.com/kaggle/us-baby-names) from Kaggle.
 
 ## 📝 Instructions:
 
