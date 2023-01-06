@@ -4,7 +4,7 @@ You can also use the `data_frame.loc` function to filter records using logical o
 
 ```python
 # get people more than 18 years old
-data_frame.loc[data_frame['age'] < 18]
+data_frame.loc[data_frame['age'] > 18]
 ```
 
 ## 📝 Instructions:
