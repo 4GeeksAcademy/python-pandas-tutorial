@@ -4,7 +4,13 @@
   "preview": "https://github.com/4GeeksAcademy/python-pandas-tutorial/blob/main/.learn/assets/pandas-preview.jpeg?raw=true",
   "difficulty": "beginner",
   "duration": 3,
-  "description": "Learn the basics and become comfortable using pandas for manipulating machine learning datasets .",
-  "title": "Pandas for Machine Learning",
+  "description": {
+    "us": "Learn the basics and become comfortable using pandas for manipulating machine learning datasets.",
+    "es": "Aprende lo básico y empieza a sentirte cómodo usando pandas y manipulando datasets de machine learning."
+  },
+  "title": {
+    "us": "Pandas for Machine Learning",
+    "es": "Pandas para Machine Learning"
+  },
   "slug": "pandas-for-machine-learning"
 }
