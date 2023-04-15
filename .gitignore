@@ -1,6 +1,8 @@
 # configuration and readme
 !.gitignore
 !.gitpod.yml
+!.devcontainer
+!.devcontainer/*
 !.gitpod.Dockerfile
 !learn.json
 !README.md
