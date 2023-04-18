@@ -3,6 +3,9 @@
 
 By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors">other contributors</a> at <a href="http://4geeksacademy.co/">4Geeks Academy</a><a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/python-pandas-tutorial/blob/main/.learn/assets/pandas_cover.png?raw=true"></a>
 <!-- endhide -->
+
+*Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/python-pandas-tutorial/blob/main/README.es.md) :es:*
+
 Pandas is the #1 library for Machine Learning, there is no way you can do anything without it. 
 This interactive tutorial will help you become familiar on it, master the most used functionalities and help you clean up your first datasets.
 
@@ -12,7 +15,7 @@ This interactive tutorial will help you become familiar on it, master the most u
 - Adding new columns
 - Normalizing data. 
 
-Note: The entire tutorial is 👆 interactive, ✅ auto-graded and with. 📹 video tutorials.
+> Note: The entire tutorial is 👆 interactive, ✅ auto-graded and with. 📹 video tutorials.
 
 These exercises were built in collaboration, we need you! If you find any bugs or misspells plese contribute and report them.
 
@@ -40,10 +43,9 @@ $ npm i jest@24.8.0 -g
 $ learnpack start
 ```
 
-Note: The exercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated.
-
 <!-- endhide -->
 
+> Note: The exercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated.
 
  ## Contributors
 
@@ -56,3 +58,5 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 3. [Ricardo Rodriguez (RickRodriguez8080)](https://github.com/RickRodriguez8080) contribution: (build-tutorial)  ✅, (documentation) 📖
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind are welcome!
+
+This and many other exercises are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sánchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and  [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
