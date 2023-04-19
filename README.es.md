@@ -14,7 +14,7 @@ Este tutorial interactivo te ayudará a familiarizarte con ella, dominar las fun
 - Añadiendo nuevas columnas.
 - Normalizando datos. 
 
-Nota: Todo el tutorial es completamente 👆 interactivo, ✅ con auto correción y 📹 videos tutoriales.
+> Nota: Todo el tutorial es completamente 👆 interactivo, ✅ con auto correción y 📹 videos tutoriales.
 
 Estos ejercicios fueron construidos en colaboración. !te necesitamos! Si consigues algún error o falta ortográfica por favor ayúdanos y repórtalos.
 
@@ -43,10 +43,9 @@ $ npm i jest@24.8.0 -g
 $ learnpack start
 ```
 
-Nota: los ejercicios tienen corrección automática pero es muy rígida, mi sugerencia es ignorar las pruebas y usarlas solo como recomendación, porque puedes llegar a frustrarte.
-
 <!-- endhide -->
 
+> Nota: los ejercicios tienen corrección automática pero es muy rígida, mi sugerencia es ignorar las pruebas y usarlas solo como recomendación, porque puedes llegar a frustrarte.
 
  ## Colaboradores
 
@@ -60,4 +59,6 @@ Gracias a estas personas maravillosas ([emoji key](https://github.com/kentcdodds
 
 Este proyecto sigue la especificación [all-contributors](https://github.com/kentcdodds/all-contributors).
 
- ¡Todas las contribuciones son bienvenidas!
+¡Todas las contribuciones son bienvenidas!
+
+Este y otros ejercicios son usados para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Curso de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
