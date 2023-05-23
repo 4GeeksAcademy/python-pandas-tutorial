@@ -19,7 +19,8 @@ def test_output():
 def test_expected_output(capsys):
     import app
     captured = capsys.readouterr()
-    assert captured.out == """F    558846
+    assert captured.out == """Gender
+F    558846
 M    457549
-Name: Gender, dtype: int64
+Name: count, dtype: int64
 """
