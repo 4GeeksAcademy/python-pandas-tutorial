@@ -2,9 +2,10 @@
 # Welcome to Pandas for Machine Learning
 
 By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors">other contributors</a> at <a href="http://4geeksacademy.co/">4Geeks Academy</a><a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/python-pandas-tutorial/blob/main/.learn/assets/pandas_cover.png?raw=true"></a>
-<!-- endhide -->
 
 *Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/python-pandas-tutorial/blob/main/README.es.md) :es:*
+<!-- endhide -->
+
 
 Pandas is the #1 library for Machine Learning, there is no way you can do anything without it. 
 This interactive tutorial will help you become familiar on it, master the most used functionalities and help you clean up your first datasets.
@@ -26,8 +27,9 @@ You can open these exercises in just a few seconds by clicking: [Open in Codespa
 
 > Once you have VSCode open the LearnPack exercises should start automatically. If exercises don't run automatically you can try typing on your terminal: `$ learnpack start`
 
-
 ## Local Installation
+
+Clone the repository in your local environment and follow the steps below:
 
 1. Install learnpack, the package manager for learning tutorials and the html compiler plugin for learnpack, make sure you also have node.js 12+:
 
