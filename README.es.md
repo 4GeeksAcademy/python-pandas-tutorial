@@ -26,8 +26,9 @@ Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Co
 
 > Una vez ya tengas abirto VSCode los ejercicios de LearnPack deberían empezar automáticamente, si esto no sucede puedes intentar empezar los ejercicios escribiendo este comando en tu terminal: `$ learnpack start`
 
-
 ## Instalación local
+
+Clona el repositorio en tu ambiente local y sigue los siguientes pasos:
 
 1. Instala `learnpack`, el `packet manager` (manejador de paquetes) para tutoriales de aprendizaje y el `compiler plugin` (plugin compilador) de html para `learnpack`. Asegúrate de tener también node.js 12+: 
 
