@@ -4,7 +4,8 @@
 
 ## 📝 Instrucciones:
 
-1. Usa la función `loc` con una operación lógica como índice. 
+1. Usa la misma variable de DataFrame que usaste en el ejercicio anterior.
+2. Usa la función `loc` con una operación lógica como índice. 
 
 ## Resultado Esperado:
 

@@ -15,6 +15,18 @@ def test_output():
     content = f.read()
     assert "print" in content
 
+@pytest.mark.it("Use the value_counts function")
+def test_value_counts_exist():
+    f = open('app.py')
+    content = f.read()
+    assert "value_counts" in content
+
+@pytest.mark.it("You should be reading the csv file located at .learn/assets/us_baby_names_right.csv to create your DataFrame")
+def test_reading_csv():
+    f = open('app.py')
+    content = f.read()
+    assert ".learn/assets/us_baby_names_right.csv" in content and 'read_csv' in content
+
 @pytest.mark.it('The output should be the expected')
 def test_expected_output(capsys):
     import app

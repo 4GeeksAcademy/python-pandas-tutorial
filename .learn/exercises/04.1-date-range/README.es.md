@@ -2,7 +2,7 @@
 
 ## 📝 Instrucciones: 
 
-1. Usa la función `pd.date_range` para crear una serie del `05-01-2021` al `05-12-2021`.
+1. Usa la función `pd.date_range` para crear una serie del `05-01-2021` al `05-12-2021` y imprime el resultado en la terminal.
 
 ## Resultado Esperado:
 

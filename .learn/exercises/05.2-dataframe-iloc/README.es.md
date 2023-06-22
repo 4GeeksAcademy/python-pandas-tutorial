@@ -9,8 +9,8 @@ print(data_frame.iloc[2,4])
 ```
 
 ## 📝 Instrucciones:
-
-1. Imprime la fila 133 y la columna 6 del DataFrame en la pantalla.
+1. Crea un DataFrame utilizando el archivo .csv ubicado en .learn/assets/pokemon_data.csv.
+2. Imprime la fila 133 y la columna 6 del DataFrame en la pantalla.
 
 ## Resultado Esperado:
 

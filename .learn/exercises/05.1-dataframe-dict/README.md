@@ -31,7 +31,7 @@ data = [
 ## Expected Result:
 
 ```bash
-    Brand     Make   Color
+    brand     make   color
 0  Toyota  Corolla    Blue
 1    Ford        K  Yellow
 2  Porche  Cayenne   White

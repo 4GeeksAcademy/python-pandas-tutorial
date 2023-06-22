@@ -6,7 +6,7 @@ Let's start a new clean exercise to clean up a publicly known Dataset of [US bab
 
 1. First, lets understand the Dataset by printing the first 10 rows.
 
-2. Import the `./assets/us_baby_names_right.csv` Dataset.
+2. Import the `.learn/assets/us_baby_names_right.csv` Dataset.
 
 3. Print the first 5 records on the command line.
 

@@ -14,6 +14,12 @@ def test_output():
     content = f.read()
     assert "print" in content
 
+@pytest.mark.it("Use the tail function")
+def test_output():
+    f = open('app.py')
+    content = f.read()
+    assert "tail" in content
+
 
 @pytest.mark.it('The output should be the expected')
 def test_expected_output(capsys):
@@ -22,12 +28,8 @@ def test_expected_output(capsys):
     data_frame = pandas.read_csv('.learn/assets/pokemon_data.csv').tail(3)
     assert captured.out == str(data_frame)+'\n'
 
-# @pytest.mark.it('The variable data_frame should exist')
-# def test_variable_existence():
-#     from app import data_frame
-
-"""       #                 Name   Type 1 Type 2  HP  Attack  Defense  Sp. Atk  Sp. Def  Speed  Generation  Legendary
-797  720  HoopaHoopa Confined  Psychic  Ghost  80     110       60      150      130     70           6       True
-798  720   HoopaHoopa Unbound  Psychic   Dark  80     160       60      170      130     80           6       True
-799  721            Volcanion     Fire  Water  80     110      120      130       90     70           6       True
-"""
+@pytest.mark.it("You should be reading the csv file located at .learn/assets/pokemon_data.csv to create your DataFrame")
+def test_reading_csv():
+    f = open('app.py')
+    content = f.read()
+    assert ".learn/assets/pokemon_data.csv" in content and 'read_csv' in content

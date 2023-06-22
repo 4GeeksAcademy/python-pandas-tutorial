@@ -4,7 +4,8 @@ Nosotros también podemos importar al menos 3 items si queremos, pero usando la 
 
 ## 📝 Instrucciones:
 
-1. Usa la función `data_frame.tail` para imprimir solamente las últimas **tres** filas del Dataset.
+1. Usa la misma variable de DataFrame que usaste en el ejercicio anterior.
+2. Usa la función `DateFrame.tail` para imprimir solamente las últimas **tres** filas del Dataset.
 
 ## Resultado Esperado:
 
