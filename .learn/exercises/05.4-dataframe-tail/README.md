@@ -3,8 +3,8 @@
 We can also import the last 3 items if we want, but using the `tail` function.
 
 ## 📝 Instructions:
-
-- Use the `data_frame.tail` function to print just the last **three** rows of the Dataset.
+1. Use the same DataFrame variable you used in the previous exercise.
+2. Use the `DateFrame.tail` function to print just the last **three** rows of the Dataset.
 
 ## Expected Result:
 

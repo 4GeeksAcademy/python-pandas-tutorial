@@ -9,7 +9,8 @@ data_frame.loc[data_frame['age'] < 18]
 
 ## 📝 Instrucciones:
 
-1. Usando la función `loc`, imprime en el terminal todos los pokemons con un ataque de mas de 80.
+1. Usa la misma variable de DataFrame que usaste en el ejercicio anterior.
+2. Usando la función `loc`, imprime en el terminal todos los pokemons con un ataque de mas de 80.
 
 ## Resultado Esperado: 
 

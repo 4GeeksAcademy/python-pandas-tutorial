@@ -8,7 +8,7 @@ my_series = pd.Series([2, 4, 6, 8, 10])
 
 ## 📝 Instrucciones: 
 
-1. Usa la función `my_series.apply` para dividir todos los números de la siguiente serie por 2.
+1. Usa la función `my_series.apply` para dividir todos los números de la siguiente serie por 2 e imprime el resultado a la terminal.
 
 ## Resultado Esperado:
 

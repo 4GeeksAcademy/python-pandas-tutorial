@@ -5,8 +5,8 @@ Como puedes ver en el ejercicio anterior, Pandas hace un esfuerzo para mostrar e
 Pero Pandas también ofrece otros métodos para simplificar la visualización de datos, comencemos con la función `file.head()`.
 
 ## 📝 Instrucciones:
-
-1. Usa la función `data_frame.head` para imprimir solamente las primeras **tres** filas del Dataset.
+1. Usa la misma variable de DataFrame que usaste en el ejercicio anterior.
+2. Usa la función `DataFrame.head` para imprimir solamente las primeras **tres** filas del Dataset.
 
 ## Resultado Esperado:
 

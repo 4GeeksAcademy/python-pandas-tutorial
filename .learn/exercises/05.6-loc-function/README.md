@@ -9,7 +9,8 @@ data_frame.loc[data_frame['age'] > 18]
 
 ## 📝 Instructions:
 
-1. Using the `loc` function, print on the terminal all pokemons with an atack of more than 80.
+1. Use the same DataFrame variable you used in the previous exercise.
+2. Using the `loc` function, print on the terminal all pokemons with an attack of more than 80.
 
 ## Expected Result:
 

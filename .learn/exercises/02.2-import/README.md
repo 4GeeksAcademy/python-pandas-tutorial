@@ -8,7 +8,7 @@ The `import` command is meant for loading 3rd part libraries (like Pandas) or ot
 
 1. Type `import pandas as pd` inside the file `app.py` to import the Pandas library.
 
-2. Use the Pandas `read_csv` function to import the content of the CSV file into a variable.
+2. Use the Pandas `read_csv` function to import the content of the CSV file into a variable called `data_frame`.
 
 3. Print the variable on the terminal using the `print` function.
 

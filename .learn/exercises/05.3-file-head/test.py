@@ -15,20 +15,20 @@ def test_output():
     content = f.read()
     assert "print" in content
 
+@pytest.mark.it("Use the head function")
+def test_output():
+    f = open('app.py')
+    content = f.read()
+    assert "head" in content
+    
+@pytest.mark.it("You should be reading the csv file located at .learn/assets/pokemon_data.csv to create your DataFrame")
+def test_reading_csv():
+    f = open('app.py')
+    content = f.read()
+    assert ".learn/assets/pokemon_data.csv" in content and 'read_csv' in content
 
 @pytest.mark.it('The output should be the expected')
 def test_expected_output(capsys):
     import app
     captured = capsys.readouterr()
     assert captured.out == str(data_frame) + '\n'
-
-# @pytest.mark.it('The variable data_frame should exist')
-# def test_variable_existence():
-#     from app import data_frame
-
-"""
-   #       Name Type 1  Type 2  HP  Attack  Defense  Sp. Atk  Sp. Def  Speed  Generation  Legendary
-0  1  Bulbasaur  Grass  Poison  45      49       49       65       65     45           1      False
-1  2    Ivysaur  Grass  Poison  60      62       63       80       80     60           1      False
-2  3   Venusaur  Grass  Poison  80      82       83      100      100     80           1      False
-"""

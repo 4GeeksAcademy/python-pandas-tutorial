@@ -15,6 +15,18 @@ def test_output():
     content = f.read()
     assert "print" in content
 
+@pytest.mark.it("Use the loc function")
+def test_loc_func_exists():
+    f = open('app.py')
+    content = f.read()
+    assert "loc" in content
+
+@pytest.mark.it("You should be reading the csv file located at .learn/assets/pokemon_data.csv to create your DataFrame")
+def test_reading_csv():
+    f = open('app.py')
+    content = f.read()
+    assert ".learn/assets/pokemon_data.csv" in content and 'read_csv' in content
+
 @pytest.mark.it('The output should be the expected')
 def test_expected_output(capsys):
     import app

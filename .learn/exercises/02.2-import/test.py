@@ -15,9 +15,11 @@ def test_vatiable_existence():
 
 @pytest.mark.it("Use the print function")
 def test_output():
-    f = open('app.py')
-    content = f.read()
-    assert "print(" in content
+    path = os.path.dirname(os.path.abspath('app.py'))+'/app.py'
+    with open(path, 'r') as content_file:
+        content = content_file.read()
+        regex = re.compile(r"print\s*\(")
+        assert bool(regex.search(content)) == True
 
 @pytest.mark.it('The output should be the expected')
 def test_output_print(capsys):

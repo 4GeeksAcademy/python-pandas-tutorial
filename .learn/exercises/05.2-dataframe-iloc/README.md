@@ -9,8 +9,8 @@ print(data_frame.iloc[2,4])
 ```
 
 ## 📝 Instructions:
-
-1. Print the DataFrame row 133 and colum 6 on the screen.
+1. Create a DataFrame using the `.csv` file located at `.learn/assets/pokemon_data.csv`
+2. Print the DataFrame row 133 and colum 6 on the screen.
 
 ## Expected Result:
 

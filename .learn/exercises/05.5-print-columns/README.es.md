@@ -20,7 +20,8 @@ print(data_frame['Type 1'][0:10])
 
 ## 📝 Instrucciones:
 
-1. Imprime solamente las columnas  'Name' y 'Type' desde tu Dataset, y solo los primeros 5 elementos.
+1. Usa la misma variable de DataFrame que usaste en el ejercicio anterior.
+2. Imprime solamente las columnas  'Name' y 'Type' desde tu Dataset, y solo los primeros 5 elementos.
 
 ## Resultado Esperado:
 

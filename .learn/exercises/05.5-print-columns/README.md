@@ -20,7 +20,8 @@ print(data_frame['Type 1'][0:10])
 
 ## 📝 Instructions:
 
-1. Print only the columns 'Name' and 'Type' from your Dataset, and only the first 10 elements.
+1. Use the same DataFrame variable you used in the previous exercise.
+2. Print only the columns 'Name' and 'Type' from your Dataset, and only the first 10 elements.
 
 ## Expected Result:
 
