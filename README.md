@@ -8,20 +8,20 @@ By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https
 
 
 Pandas is the #1 library for Machine Learning, there is no way you can do anything without it. 
-This interactive tutorial will help you become familiar on it, master the most used functionalities and help you clean up your first datasets.
+This interactive tutorial will help you become familiar with it, master the most used functionalities, and help you clean up your first datasets.
 
 - Load CSV.  
 - Manipulating Dataframes.  
-- Describing and exploting your dataset.
+- Describing and exploiting your dataset.
 - Adding new columns
 - Normalizing data. 
 
 > Note: The entire tutorial is 👆 interactive, ✅ auto-graded and with. 📹 video tutorials.
 
-These exercises were built in collaboration, we need you! If you find any bugs or misspells plese contribute and report them.
+These exercises were built in collaboration, we need you! If you find any bugs or misspells please contribute and report them.
 
 <!-- hide -->
-## One click installation (recommended):
+## One-click installation (recommended):
 
 You can open these exercises in just a few seconds by clicking: [Open in Codespaces](https://codespaces.new/?repo=4GeeksAcademy/python-pandas-tutorial) (recommended) or [Open in Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/python-pandas-tutorial).
 
@@ -31,14 +31,14 @@ You can open these exercises in just a few seconds by clicking: [Open in Codespa
 
 Clone the repository in your local environment and follow the steps below:
 
-1. Install learnpack, the package manager for learning tutorials and the html compiler plugin for learnpack, make sure you also have node.js 12+:
+1. Install Learnpack, the package manager for learning tutorials and the Python compiler plugin for LearnPack, make sure you also have node.js 12+:
 
 ```
 $ npm i learnpack -g
-$ learnpack plugins:install learnpack-node
+$ learnpack plugins:install learnpack-python
 ```
 
-2. Start the tutorial/exercises by running the following command at the same level were your bc.json file is:
+2. Start the tutorial/exercises by running the following command at the same level where your bc.json file is:
 
 ```sh
 $ npm i jest@24.8.0 -g
@@ -47,7 +47,7 @@ $ learnpack start
 
 <!-- endhide -->
 
-> Note: The exercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated.
+> Note: The exercises have automatic grading but it's very rigid and string, my recommendation is to ignore the tests and use them only as a recommendation or you can get frustrated.
 
  ## Contributors
 
