@@ -1,64 +1,78 @@
-<!-- hide -->
-# Welcome to Pandas for Machine Learning
+# Pandas for machine learning
 
-By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors">other contributors</a> at <a href="http://4geeksacademy.co/">4Geeks Academy</a><a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/python-pandas-tutorial/blob/main/.learn/assets/pandas_cover.png?raw=true"></a>
+Pandas is the best and most popular Python library for machine learning. This library offers a wide variety of functions that will help you manipulate data, optimize your machine-learning algorithm, and much more. This tutorial will help you to get familiar with this library and master the most used functionalities with code samples and video tutorials that will help you to create your first data frame, clean a dataset of information, read CSV files, etc... 
 
-*Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/python-pandas-tutorial/blob/main/README.es.md) :es:*
-<!-- endhide -->
+The examples in this tutorial have been created in about 40 hours of development by many experts in machine learning and carefully reviewed by our [contributors](https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors) to make sure you have the most accurate and important information that will help to start your machine learning career. 
 
+## Content table
 
-Pandas is the #1 library for Machine Learning, there is no way you can do anything without it. 
-This interactive tutorial will help you become familiar with it, master the most used functionalities, and help you clean up your first datasets.
+In this tutorial, we will see the most important and basic functions provided by Pandas that will help you to work with data in machine learning, the following are some of the topics that will be covered in this tutorial. 
 
-- Load CSV.  
-- Manipulating Dataframes.  
-- Describing and exploiting your dataset.
-- Adding new columns
-- Normalizing data. 
+| Exercise      | Description of the topic                                                                                                                           |
+|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+|Install Pandas | This class covers how to install Pandas, how to import the Pandas library in a Python file, and how to create your first Python script.            |
+|DataSets       | This class explains what datasets are and how to work with them.                                                                                   |
+|Series         | This class explains what series are in Pandas and how to use them.                                                                                 |
+|DataFrames     | This class explains how to create an information data frame and what functions can be used to work with them.                                      |
+|Clean DataSets | This class covers what data cleaning is, the functions Pandas offers to clean up a dataset, and the best practices to use when cleaning a dataset. |
 
-> Note: The entire tutorial is 👆 interactive, ✅ auto-graded and with. 📹 video tutorials.
+## Tutorial Installation
 
-These exercises were built in collaboration, we need you! If you find any bugs or misspells please contribute and report them.
+There are two ways to initialize this tutorial, the first and easiest is to open the tutorial in a cloud environment such as **Codespaces** or **Gitpod**, and the second is to clone this repository in your local environment.
 
-<!-- hide -->
-## One-click installation (recommended):
+> We recommend that you use **Codespaces** because it is the easiest en fastest way to start the tutorial.
 
-You can open these exercises in just a few seconds by clicking: [Open in Codespaces](https://codespaces.new/?repo=4GeeksAcademy/python-pandas-tutorial) (recommended) or [Open in Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/python-pandas-tutorial).
+### 1. Open the tutorial in a cloud environment
 
-> Once you have VSCode open the LearnPack exercises should start automatically. If exercises don't run automatically you can try typing on your terminal: `$ learnpack start`
+You can start this tutorial in just a few seconds with **Codespaces** by clicking on the following link: [open in codespaces](https://codespaces.new/?repo=4GeeksAcademy/python-pandas-tutorial) (recommended) or you can use **Gitpod** by clicking on: [open in gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/python-pandas-tutorial).
 
-## Local Installation
+> Once you have opened the cloud environment either **Codespaces** or **Gitpod**, the LearPack exercises should start automatically. If the exercises do not start automatically you can open a terminal and type the command: `learnpack start`
 
-Clone the repository in your local environment and follow the steps below:
+### 2. Open the tutorial in your local environment
 
-1. Install Learnpack, the package manager for learning tutorials and the Python compiler plugin for LearnPack, make sure you also have node.js 12+:
+To start this tutorial in your local environment, follow the steps below:
 
-```
-$ npm i learnpack -g
-$ learnpack plugins:install learnpack-python
-```
+1.  Open a terminal and clone this repository on your local environment, you can use the following command: 
 
-2. Start the tutorial/exercises by running the following command at the same level where your bc.json file is:
-
-```sh
-$ npm i jest@24.8.0 -g
-$ learnpack start
+```bash
+git clone https://github.com/4GeeksAcademy/python-pandas-tutorial.git 
 ```
 
-<!-- endhide -->
+2. Make sure you have installed a Node.js version of `12.01.1` or higher:
 
-> Note: The exercises have automatic grading but it's very rigid and string, my recommendation is to ignore the tests and use them only as a recommendation or you can get frustrated.
+```bash
+node --version
+```
 
- ## Contributors
+3. Install Learnpack, the package manager for learning tutorials, and also run the Python compiler plugin for LearnPach, you can do this with the following commands:
+ 
+```bash
+> npm i learnpack -g
+> learnpack plugins:install learnpack-python
+```
 
-Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
+4. Finally, Install Jest to perform the necessary tests throughout the tutorial and start the exercises with the following commands:
 
-1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) 💻  (idea) 🤔, (build-tests) ⚠️ , (pull-request-review) 👀 (build-tutorial) ✅ (documentation) 📖
+```bash
+> npm i jest@24.8.0 -g
+> learnpack start
+```
 
-2. [Paolo (plucodev)](https://github.com/plucodev), contribution: (bug reports) 🐛, contribution: (coder), (translation) 🌎
+## Contributors
 
-3. [Ricardo Rodriguez (RickRodriguez8080)](https://github.com/RickRodriguez8080) contribution: (build-tutorial)  ✅, (documentation) 📖
+We would like to express our deepest gratitude to the following contributors for their invaluable support in making this tutorial possible.
 
-This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind are welcome!
+| Contributor       | Github account                                      |
+|-------------------|-----------------------------------------------------|
+| Alejandro Sanchez | [alesanchezr](https://github.com/alesanchezr)       |
+| Martín Suárez     | [kiddopro](https://github.com/kiddopro)             |
+| lorena Gubaira    | [Lorenagubaira](https://github.com/Lorenagubaira)   |
+| Tomas Gonzalez    | [tommygonzaleza](https://github.com/tommygonzaleza) |
+| Hernán García     | [hernanjkd](https://github.com/hernanjkd)           |
+| Ernesto Gonzalez  | [UmiKami](https://github.com/UmiKami)               |
+| Hector Chocobar   | [hchocobar](https://github.com/hchocobar)           |
+| Charly Chacón     | [Charlytoc](https://github.com/Charlytoc)           |
+| Agustín Fernández | [Dasher83](https://github.com/Dasher83)             |
+| Ignacio Cordoba   | [nachovz](https://github.com/nachovz)               |
 
-This and many other exercises are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sánchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and  [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
+This tutorial and many other exercises are designed for students as part of the 4Geeks academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp). Currently, we have two courses available. The first one is the [Full Stack](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) coding Bootcamp, in this course, you will learn technologies like HTML5, CSS3, Javascript, Python, Flask, SQL and many others. The second one is the [Data Science Course](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning) where you will learn technologies like Python, Algorithms' basics, Pandas, SQL Database, and many other technologies. You can find more information about these courses and the upcoming **Blockchain and Web3** course on the official [4Geeks Academy](http://4geeksacademy.co/) web page.
