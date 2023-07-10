@@ -10,10 +10,10 @@ In this tutorial, we will see the most important and basic functions provided by
 
 | Exercise      | Description of the topic                                                                                                                           |
 |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-|Install Pandas | This class covers how to install Pandas, how to import the Pandas library in a Python file, and how to create your first Python script.            |
-|DataSets       | This class explains what datasets are and how to work with them.                                                                                   |
-|Series         | This class explains what series are in Pandas and how to use them.                                                                                 |
-|DataFrames     | This class explains how to create an information data frame and what functions can be used to work with them.                                      |
+|Install Pandas | These exercises cover how to install Pandas, how to import the Pandas library in a Python file, and how to create your first Python script.            |
+|DataSets       | These exercises explain what datasets are and how to work with them.                                                                                   |
+|Series         | These exercises explain what series are in Pandas and how to use them.                                                                                 |
+|DataFrames     | These exercises explain how to create an information data frame and what functions can be used to work with them.                                      |
 |Clean DataSets | This class covers what data cleaning is, the functions Pandas offers to clean up a dataset, and the best practices to use when cleaning a dataset. |
 
 ## Tutorial Installation
