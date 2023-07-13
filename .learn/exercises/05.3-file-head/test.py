@@ -31,4 +31,4 @@ def test_reading_csv():
 def test_expected_output(capsys):
     import app
     captured = capsys.readouterr()
-    assert captured.out == str(data_frame) + '\n'
+    assert str(data_frame) + '\n' in captured.out

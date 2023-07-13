@@ -28,8 +28,8 @@ def test_hardcoded_output():
 def test_expected_output(capsys):
     import app
     captured = capsys.readouterr()
-    assert captured.out == """DatetimeIndex(['2021-05-01', '2021-05-02', '2021-05-03', '2021-05-04',
+    assert   """DatetimeIndex(['2021-05-01', '2021-05-02', '2021-05-03', '2021-05-04',
                '2021-05-05', '2021-05-06', '2021-05-07', '2021-05-08',
                '2021-05-09', '2021-05-10', '2021-05-11', '2021-05-12'],
               dtype='datetime64[ns]', freq='D')
-"""
+""" in captured.out

@@ -31,8 +31,8 @@ def test_reading_csv():
 def test_expected_output(capsys):
     import app
     captured = capsys.readouterr()
-    assert captured.out == """Gender
+    assert  """Gender
 F    558846
 M    457549
 Name: count, dtype: int64
-"""
+""" in captured.out

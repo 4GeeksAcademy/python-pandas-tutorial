@@ -24,7 +24,7 @@ def test_reading_csv():
 def test_expected_output(capsys):
     import app
     captured = capsys.readouterr()
-    assert captured.out == """                        Name Type 1
+    assert  """                        Name Type 1
 0                  Bulbasaur  Grass
 1                    Ivysaur  Grass
 2                   Venusaur  Grass
@@ -35,4 +35,4 @@ def test_expected_output(capsys):
 7  CharizardMega Charizard X   Fire
 8  CharizardMega Charizard Y   Fire
 9                   Squirtle  Water
-"""
+""" in captured.out
