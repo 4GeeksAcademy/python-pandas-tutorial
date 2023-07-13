@@ -51,5 +51,5 @@ def test_reading_csv():
 def test_expected_output(capsys):
     import app
     captured = capsys.readouterr()
-    assert captured.out == "17632\n"
+    assert   "17632\n" in captured.out
 

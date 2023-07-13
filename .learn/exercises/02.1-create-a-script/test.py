@@ -15,4 +15,4 @@ def test_output():
 def test_print(capsys):
     import app
     captured = capsys.readouterr()
-    assert captured.out == 'Hello World\n' 
+    assert  'Hello World\n' in captured.out

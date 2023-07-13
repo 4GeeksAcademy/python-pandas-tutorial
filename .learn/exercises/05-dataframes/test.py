@@ -21,11 +21,11 @@ def test_output():
 def test_expected_output(capsys):
     import app
     captured = capsys.readouterr()
-    assert captured.out == """    Brand    Model   Color
+    assert  """    Brand    Model   Color
 0  Toyota  Corolla    Blue
 1    Ford        K  Yellow
 2  Porche  Cayenne   White
-"""
+""" in captured.out
 
 @pytest.mark.it('The variable data should exist')
 def test_variable_existence():

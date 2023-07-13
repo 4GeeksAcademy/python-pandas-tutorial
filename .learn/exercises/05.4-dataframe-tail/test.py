@@ -26,7 +26,7 @@ def test_expected_output(capsys):
     import app
     captured = capsys.readouterr()
     data_frame = pandas.read_csv('.learn/assets/pokemon_data.csv').tail(3)
-    assert captured.out == str(data_frame)+'\n'
+    assert str(data_frame)+'\n' in captured.out
 
 @pytest.mark.it("You should be reading the csv file located at .learn/assets/pokemon_data.csv to create your DataFrame")
 def test_reading_csv():

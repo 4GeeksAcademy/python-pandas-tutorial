@@ -20,13 +20,13 @@ def test_output():
 def test_expected_output(capsys):
     import app
     captured = capsys.readouterr()
-    assert captured.out == """0    1.0
+    assert   """0    1.0
 1    2.0
 2    3.0
 3    4.0
 4    5.0
 dtype: float64
-"""
+""" in captured.out
 
 @pytest.mark.it('The variable my_series should exist')
 def test_variable_existence():

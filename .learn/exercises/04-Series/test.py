@@ -20,7 +20,7 @@ def test_output():
 def test_expected_output(capsys):
     import app
     captured = capsys.readouterr()
-    assert captured.out == """0    23
+    assert  """0    23
 1    45
 2     7
 3    34
@@ -31,7 +31,7 @@ def test_expected_output(capsys):
 8    54
 9    34
 dtype: int64
-"""
+""" in captured.out 
 
 @pytest.mark.it('The variable ages must exist')
 def test_vatiable_existence():

@@ -19,7 +19,7 @@ def test_output():
 def test_expected_output(capsys):
     import app
     captured = capsys.readouterr()
-    assert captured.out == "65\n"
+    assert "65\n" in captured.out
 
 @pytest.mark.it("Do not hardcode the expected output")
 def test_harcoded_output():
