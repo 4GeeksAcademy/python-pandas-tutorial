@@ -44,7 +44,7 @@ git clone https://github.com/4GeeksAcademy/python-pandas-tutorial.git
 node --version
 ```
 
-3. Install Learnpack, the package manager for learning tutorials, and also run the Python compiler plugin for LearnPach, you can do this with the following commands:
+3. Install Learnpack, the package manager for learning tutorials, and also run the Python compiler plugin for LearnPack, you can do this with the following commands:
  
 ```bash
 > npm i learnpack -g
