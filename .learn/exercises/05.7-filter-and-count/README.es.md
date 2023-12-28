@@ -1,6 +1,6 @@
 # `05.7` Filter and Count
 
-¿Cuántos pokemos son legendarios?
+¿Cuántos pokemones son legendarios?
 
 ## 📝 Instrucciones:
 
