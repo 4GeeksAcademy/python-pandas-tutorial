@@ -1,6 +1,6 @@
 # `05.2` DataFrame iLoc
 
-El comando iLoc te permite recuperar cualquier cel en tu DataFrame. Por ejemplo, para imprimir el cel en el `x-axis:2` y `y-axis:4` tendríamos que escribir lo siguiente:
+El comando iLoc te permite recuperar cualquier celda en tu DataFrame. Por ejemplo, para imprimir la celda en el `x-axis:2` y `y-axis:4` tendríamos que escribir lo siguiente:
 
 ```python
 # Imprimir el elemento en la Fila: 2, Col: 1
