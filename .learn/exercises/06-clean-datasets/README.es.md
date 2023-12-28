@@ -6,7 +6,7 @@ Vamos a empezar un nuevo ejercicio limpio para limpiar un Dataset conocido públ
 
 1. Primero, vamos a entender el Dataset imprimiendo las primeras 10 filas.
 
-2. Importa el Dataset `./assets/us_baby_names_right.csv`.
+2. Importa el Dataset `.learn/assets/us_baby_names_right.csv`.
 
 3. Imprime los primeros 5 registros en la línea de comando.
 
