@@ -2,9 +2,9 @@
 
 ## 📝 Instrucciones: 
 
-1. Usa la función `pd.date_range` para crear una serie del `05-01-2021` al `05-12-2021` y imprime el resultado en la terminal.
+1. Usa la función `pd.date_range` para crear una serie del `2021-05-01` al `2021-05-12` e imprime el resultado en la terminal.
 
-## Resultado Esperado:
+## 💻 Resultado Esperado:
 
 ```bash 
 DatetimeIndex(['2021-05-01', '2021-05-02', '2021-05-03', '2021-05-04',
