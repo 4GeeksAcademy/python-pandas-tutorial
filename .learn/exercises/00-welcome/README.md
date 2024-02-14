@@ -20,8 +20,6 @@ Being a Machine Learning developer without Pandas is like being a handyman witho
 
 During this course, we are going to show you the most popular Pandas functionalities and help you write your own Python code with Pandas. You will be learning:
 
-+ How to open a new terminal.
-
 + How to install Pandas.
 
 + To download the Dataset.
