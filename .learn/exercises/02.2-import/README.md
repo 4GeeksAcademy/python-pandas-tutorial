@@ -18,7 +18,7 @@ Run your script, and you should see the following output:
 
 ![Run app.py file](../../assets/print-file.png)
 
-## 💡 Hints:
+## 💡 Hint:
 
 + Your code should be something like this
 
