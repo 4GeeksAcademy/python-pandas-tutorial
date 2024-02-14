@@ -18,7 +18,7 @@ Read the command line output, it should say "Launching subshell...." and no erro
 
 ![pipenv](../../assets/pipenv.png)
 
-## 💡 Hint:
+## 💡 Hints:
 
 + Do not include the `$` symbol.
 
