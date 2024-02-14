@@ -4,7 +4,7 @@ In Machine Learning, "Datasets" are the data we use for our experiments. We usua
 
 Possible datasets based on your objective prediction:
 
-- If we sell shoes, how many shoes do I need in my warehouse for the next month? A good Dataset would be sales from the past 2 years.
+- If we sell shoes, how many shoes do I need in my warehouse for the next month? A good Dataset would be the sales from the past 2 years.
 
 - If we are building a program to diagnose pneumonia, a good Dataset would be 100 x-rays with pneumonia and 100 x-rays without pneumonia.
 
