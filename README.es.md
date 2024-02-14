@@ -13,14 +13,14 @@ En este tutorial, veremos las funciones más importantes y básicas proporcionad
 |Instalar Pandas | Estos ejercicios cubren cómo instalar Pandas, cómo importar la biblioteca Pandas en un archivo de Python, y cómo crear tu primer script en Python.          |
 |DataSets       | Estos ejercicios explican qué son los conjuntos de datos y cómo trabajar con ellos.                                                                                |
 |Series         | Estos ejercicios explican qué son las series en Pandas y cómo usarlas.                                                                    |
-|DataFrames     | Estos ejercicios explican cómo crear un data frame de información y qué funciones se pueden usar para trabajar con ellos.                                    |
+|DataFrames     | Estos ejercicios explican cómo crear un DataFrame de información y qué funciones se pueden usar para trabajar con ellos.                                    |
 |Clean DataSets | Esta clase cubre qué es la limpieza de datos, las funciones que Pandas ofrece para limpiar un DataSet, y las mejores prácticas para limpiar un DataSet. |
 
 ## Tutorial de Instalación
 
 Hay dos formas de iniciar este tutorial, la primera y más fácil es abrir el tutorial en un entorno en la nube como **Codespaces** o **Gitpod**, y la segunda es clonar este repositorio en tu entorno local.
 
-> recomendamos que utilices **Codespaces**, ya que es la forma más fácil y rápida de comenzar el tutorial.
+> Recomendamos que utilices **Codespaces**, ya que es la forma más fácil y rápida de comenzar el tutorial.
 
 ### 1. Abrir el tutorial en un entorno en la nube
 
@@ -44,7 +44,7 @@ git clone https://github.com/4GeeksAcademy/python-pandas-tutorial.git
 node --version
 ```
 
-3. Instala Learnpack, el gestor de paquetes para tutoriales de aprendizaje, y también ejecuta el complemento del compilador de Python para LearnPack con los siguientes comandos:
+3. Instala LearnPack, el gestor de paquetes para tutoriales de aprendizaje, y también ejecuta el complemento del compilador de Python para LearnPack con los siguientes comandos:
  
 ```bash
 > npm i learnpack -g
@@ -62,11 +62,11 @@ node --version
 
 Queremos expresar nuestro más profundo agradecimiento a los siguientes colaboradores por su valioso apoyo en la creación de este tutorial.
 
-| Colaborador       | Cuenta de Github                                  |
+| Colaborador       | Cuenta de GitHub                                  |
 |-------------------|-----------------------------------------------------|
 | Alejandro Sanchez | [alesanchezr](https://github.com/alesanchezr)       |
 | Martín Suárez     | [kiddopro](https://github.com/kiddopro)             |
-| lorena Gubaira    | [Lorenagubaira](https://github.com/Lorenagubaira)   |
+| Lorena Gubaira    | [Lorenagubaira](https://github.com/Lorenagubaira)   |
 | Tomas Gonzalez    | [tommygonzaleza](https://github.com/tommygonzaleza) |
 | Hernán García     | [hernanjkd](https://github.com/hernanjkd)           |
 | Ernesto Gonzalez  | [UmiKami](https://github.com/UmiKami)               |
@@ -75,5 +75,5 @@ Queremos expresar nuestro más profundo agradecimiento a los siguientes colabora
 | Agustín Fernández | [Dasher83](https://github.com/Dasher83)             |
 | Ignacio Cordoba   | [nachovz](https://github.com/nachovz)               |
 
-Este tutorial y muchos otros ejercicios están diseñados para estudiantes como parte del [Bootcamp de Programación](https://4geeksacademy.com/us/coding-bootcamp) de 4Geeks Academy. Actualmente, tenemos dos cursos disponibles. El primero es el Curso de [Desarrollador Full Stack](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), en este curso aprenderás tecnologías como HTML5, CSS3, Javascript, Python, Flask, SQL y muchas otras. El segundo es el [Bootcamp de Data Science](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning) donde aprenderás tecnologías como Python, fundamentos de algoritmos, Pandas, bases de datos SQL y muchas otras tecnologías. Puedes encontrar más información sobre estos cursos y el próximo curso de Blockchain y Web3 en la página web oficial de [4Geeks Academy](http://4geeksacademy.com/).
+Este tutorial y muchos otros ejercicios están diseñados para estudiantes como parte del [Bootcamp de Programación](https://4geeksacademy.com/us/coding-bootcamp) de 4Geeks Academy. Actualmente, tenemos dos cursos disponibles. El primero es el Curso de [Desarrollador Full Stack](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), en este curso aprenderás tecnologías como HTML5, CSS3, JavaScript, Python, Flask, SQL y muchas otras. El segundo es el [Bootcamp de Data Science](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning) donde aprenderás tecnologías como Python, fundamentos de algoritmos, Pandas, bases de datos SQL y muchas otras tecnologías. Puedes encontrar más información sobre estos cursos y el próximo curso de Blockchain y Web3 en la página web oficial de [4Geeks Academy](http://4geeksacademy.com/).
 
