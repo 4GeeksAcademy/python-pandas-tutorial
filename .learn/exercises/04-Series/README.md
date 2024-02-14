@@ -24,6 +24,8 @@ dtype: int64
 
 1. Create a series from this list: `ages = [23,45,7,34,6,63,36,78,54,34]`
 
+2. Print the `ages` variable on the console.
+
 ## 💻 Expected Result:
 
 ```bash
