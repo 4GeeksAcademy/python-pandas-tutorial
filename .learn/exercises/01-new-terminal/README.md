@@ -16,4 +16,4 @@ menu => Terminal => New Terminal
 
 + You have a list of all the opened terminals on the bottom-right side of the screen, you can always swap between terminals or create new ones.
 
-![terminal](../../assets/terminal.gif)
+![Terminals list](../../assets/terminal.gif)
