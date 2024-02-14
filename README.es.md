@@ -62,7 +62,7 @@ node --version
 
 Queremos expresar nuestro más profundo agradecimiento a los siguientes colaboradores por su valioso apoyo en la creación de este tutorial.
 
-| Colaborador       | Cuenta de Github                                  |
+| Colaborador       | Cuenta de GitHub                                  |
 |-------------------|-----------------------------------------------------|
 | Alejandro Sanchez | [alesanchezr](https://github.com/alesanchezr)       |
 | Martín Suárez     | [kiddopro](https://github.com/kiddopro)             |
