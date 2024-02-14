@@ -2,7 +2,7 @@
 
 Now let's add Pandas into our script by using the `import` command.
 
-The `import` command is meant for loading 3rd part libraries (like Pandas) or other Python files that you have created (which we will do in the future).
+The `import` command is meant for loading 3rd-party libraries (like Pandas) or other Python files that you have created (which we will do in the future).
 
 ## 📝 Instructions:
 
@@ -12,13 +12,13 @@ The `import` command is meant for loading 3rd part libraries (like Pandas) or ot
 
 3. Print the variable on the terminal using the `print` function.
 
-## Expected Result:
+## 💻 Expected Result:
 
-Run your script and you should see the following output:
+Run your script, and you should see the following output:
 
-![print file](../../assets/print-file.png)
+![Run app.py file](../../assets/print-file.png)
 
-## 💡 Hint:
+## 💡 Hints:
 
 + Your code should be something like this
 
@@ -29,4 +29,4 @@ data_frame = pd.read_csv('.learn/assets/pokemon_data.csv')
 print(data_frame)
 ```
 
-> Note: The `read_csv` function returns something called a `DataFrame`; we will be refering to it as a variable from now on.
+> Note: The `read_csv` function returns something called a `DataFrame`; we will be referring to it as a variable from now on.
