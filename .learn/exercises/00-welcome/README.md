@@ -26,7 +26,7 @@ During this course, we are going to show you the most popular Pandas functionali
 
 + How to create a series.
 
-+ Pandas' Data Frame.
++ Pandas' DataFrame.
 
 + Clean up DataSets.
 
