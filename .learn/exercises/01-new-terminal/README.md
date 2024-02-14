@@ -10,7 +10,7 @@ This tutorial engine takes over your terminal, meaning that you cannot type on t
 menu => Terminal => New Terminal
 ```
 
-![new terminal](../../assets/new-terminal.png)
+![New terminal](../../assets/new-terminal.png)
 
 ## 💡 Hint:
 
