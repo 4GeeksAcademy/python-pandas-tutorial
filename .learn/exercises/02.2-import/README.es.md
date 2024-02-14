@@ -2,7 +2,7 @@
 
 Ahora, vamos a añadir Pandas en nuestro script utilizando el comando `import`. 
 
-El comando `import` está destinado a cargar librerías de terceras partes (como Pandas) u otros archivos de Python que hayas creado (que haremos en el futuro).
+El comando `import` está destinado para cargar librerías de terceros (como Pandas) u otros archivos de Python que hayas creado (que haremos en el futuro).
 
 ## 📝 Instrucciones:
 
@@ -12,11 +12,11 @@ El comando `import` está destinado a cargar librerías de terceras partes (como
 
 3. Imprime la variable en el terminal usando la función `print`.
 
-## Resultado Esperado:
+## 💻 Resultado Esperado:
 
 Corre tu script y deberías ver la siguiente salida:
 
-![print file](../../assets/print-file.png)
+![correr archivo app.py](../../assets/print-file.png)
 
 ## 💡 Pista:
 
