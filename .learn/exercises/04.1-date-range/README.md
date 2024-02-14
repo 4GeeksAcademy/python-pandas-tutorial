@@ -4,7 +4,7 @@
 
 1. Use the `pd.date_range` function to create a series from `05-01-2021` to `05-12-2021` and print it to the terminal.
 
-## Expected Result: 
+## 💻 Expected Result: 
 
 ```bash
 DatetimeIndex(['2021-05-01', '2021-05-02', '2021-05-03', '2021-05-04',
