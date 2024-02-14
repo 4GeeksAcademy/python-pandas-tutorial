@@ -54,4 +54,4 @@ Este proyecto sigue las especificaciones: [all-contributors](https://github.com/
 
 ¡Todas las contribuciones son bienvenidas!
 
-> Nota: Haz clic en `next ->` arriba de estas instrucciones para empezar con el primer ejercicio.
+> Nota: Haz clic en `Next ->` arriba de estas instrucciones para empezar con el primer ejercicio.
