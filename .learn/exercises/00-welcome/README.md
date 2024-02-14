@@ -55,5 +55,5 @@ This project follows these specifications: [all-contributors](https://github.com
 Contributions of any kind are welcome!
 
 
-> Note: Please click the `next ->` button on the top right of these instructions.
+> Note: Please click the `Next ->` button on the top right of these instructions.
 
