@@ -1,6 +1,6 @@
 # `05.2` DataFrame iLoc
 
-The `iloc` command lets you retrieve any cell in your `data_frame`. For example, to print the cell in the `x-axis:2` and `y-axis:4` we would have to type the following:
+The `iloc` command lets you retrieve any cell in your DataFrame. For example, to print the cell in the `x-axis:2` and `y-axis:4` we would have to type the following:
 
 ```python
 # Print only the item in the Row: 2, Col: 4
