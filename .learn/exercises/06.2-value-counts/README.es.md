@@ -6,7 +6,7 @@
 
 1. Usa la función `value_counts` para obtener el recuento del valor `Gender`.
 
-## Resultado Esperado:
+## 💻 Resultado Esperado:
 
 ```bash
 F    558846
