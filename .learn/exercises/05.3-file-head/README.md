@@ -19,4 +19,4 @@ Your terminal output should look like this:
 
 ## 💡 Hint: 
 
-+ Read the `dataframe.head` documentation [here](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.head.html?highlight=head#pandas.DataFrame.head) to learn how to use it.
++ Read the `dataframe.head` documentation [here](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.head.html#pandas-dataframe-head) to learn how to use it.
