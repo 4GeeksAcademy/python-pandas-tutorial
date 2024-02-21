@@ -17,7 +17,7 @@ data = [
         "color": "Yellow"
     },
     {
-        "brand": "Porche", 
+        "brand": "Porsche", 
         "model": "Cayenne",
         "color": "White"
     }
