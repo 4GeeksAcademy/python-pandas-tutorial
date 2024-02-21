@@ -2,7 +2,7 @@
 
 Como puedes ver en el ejercicio anterior, Pandas hace un esfuerzo para mostrar el Dataset de la manera más limpia posible, fácil de leer y comprender.
 
-Pero Pandas también ofrece otros métodos para simplificar la visualización de datos, comencemos con la función `head()`.
+Pero Pandas también ofrece otros métodos para simplificar la visualización de datos, comencemos con la función `head`.
 
 ## 📝 Instrucciones:
 
