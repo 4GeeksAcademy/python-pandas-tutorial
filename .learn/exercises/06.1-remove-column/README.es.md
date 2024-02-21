@@ -8,7 +8,7 @@ Podemos ver que la primera columna del Dataset se llama "Unnamed: 0", y contiene
 
 2. Imprime los primeros 5 registros de nuevo.
 
-## Resultado Esperado:
+## 💻 Resultado Esperado:
 
 ```bash
       Id     Name  Year Gender State  Count
