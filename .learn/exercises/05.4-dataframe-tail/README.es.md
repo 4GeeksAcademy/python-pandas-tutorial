@@ -16,4 +16,4 @@ Como puedes ver, la primera columna que representa el índice, ahora en vez de 1
 
 ## 💡 Pista: 
 
-- Lee la documentación de `dataframe.tail` [aquí](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.tail.html) para aprender como usarlo.
+- Lee la documentación de `dataframe.tail` [aquí](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.tail.html), para aprender como usarlo.
