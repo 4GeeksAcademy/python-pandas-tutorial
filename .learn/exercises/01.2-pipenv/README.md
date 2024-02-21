@@ -1,8 +1,8 @@
 # `01.2` Pipenv
 
-Before starting any Python project is always a good idea to create a new environment. An isolated Python environment prevents bugs and makes your application independent.
+Before starting any Python project, it's always a good idea to create a new environment. An isolated Python environment prevents bugs and makes your application independent.
 
-We are using pipenv as our package and environment manager.
+We are using `pipenv` as our package and environment manager.
 
 ## 📝 Instructions:
 
@@ -12,14 +12,14 @@ We are using pipenv as our package and environment manager.
 $ pipenv shell
 ```
 
-## Expected Result:
+## 💻 Expected Result:
 
-Read the command line output, it should say that "Lanching subshell...." and no error should be visible.
+Read the command line output, it should say "Launching subshell...." and no error should be visible.
 
 ![pipenv](../../assets/pipenv.png)
 
-## 💡 Hint:
+## 💡 Hints:
 
 + Do not include the `$` symbol.
 
-+ Every time you open a new terminal (a.k.a: command line) you will have to enter into the enviroment again by typing `pipenv shell`.
++ Every time you open a new terminal (a.k.a.: command line), you will have to enter into the environment again by typing `pipenv shell`.

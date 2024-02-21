@@ -1,8 +1,8 @@
 # `01.2` Pipenv
 
-Antes de empezar cuaquier proyecto de Python, siempre es buena idea crear un nuevo enviroment (entorno). Los entornos aislados de Python previenen errores y hacen que su aplicación  sea independiente.
+Antes de empezar cualquier proyecto de Python, siempre es buena idea crear un nuevo environment (*entorno*). Los entornos aislados de Python previenen errores y hacen que tu aplicación sea independiente.
  
-Estamos utilizando ´pipenv´ como nuestro administrador de paquetes y entornos.
+Estamos utilizando `pipenv` como nuestro administrador de paquetes y entornos.
 
 ## 📝 Instrucciones:
 
@@ -12,13 +12,13 @@ Estamos utilizando ´pipenv´ como nuestro administrador de paquetes y entornos.
 $ pipenv shell
 ```
 
-## Resultado Esperado:
+## 💻 Resultado Esperado:
 
-Lee la línea de comando resultante, debería de decir "Lanching subshell...."("Subcapa de lanzamiento....") y ningún error debería ser visible.
+Lee la línea de comando resultante, debería de decir "Lanching subshell..." y ningún error debería ser visible.
 
 ![pipenv](../../assets/pipenv.png)
 
-## 💡 Pista:
+## 💡 Pistas:
 
 + No incluyas el símbolo `$`.
 
