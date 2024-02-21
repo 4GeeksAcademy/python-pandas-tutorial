@@ -22,9 +22,11 @@ dtype: int64
 
 ## 📝 Instrucciones: 
 
-1. Crea una serie de esta lista: `ages = [23,45,7,34,6,63,36,78,54,34]`
+1. Copia esta lista de Python que contiene edades a tu código: `[23,45,7,34,6,63,36,78,54,34]`
 
-2. Imprime la variable `ages` en consola.
+2. Crea una Serie a partir de esa lista.
+
+3. Imprime tu nueva Serie en la consola.
 
 ## 💻 Resultado Esperado:
 
