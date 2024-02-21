@@ -12,3 +12,7 @@ DatetimeIndex(['2021-05-01', '2021-05-02', '2021-05-03', '2021-05-04',
                '2021-05-09', '2021-05-10', '2021-05-11', '2021-05-12'],
               dtype='datetime64[ns]', freq='D')
 ```
+
+## 💡 Pista:
+
++ En las fechas puedes usar los formatos `DD-MM-AAAA` o `AAAA-MM-DD`.
