@@ -22,7 +22,7 @@ dtype: int64
 
 ## 📝 Instructions:
 
-1. Copy this Python list to your code: `ages = [23,45,7,34,6,63,36,78,54,34]`
+1. Copy this Python list of ages to your code: `[23,45,7,34,6,63,36,78,54,34]`
 
 2. Create a Series from the given list.
 
