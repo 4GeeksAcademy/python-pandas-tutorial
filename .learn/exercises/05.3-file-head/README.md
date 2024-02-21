@@ -1,8 +1,8 @@
-# `05.3` File Head 
+# `05.3` Function Head 
 
 As you can see from the previous step, Pandas makes an effort to display the Dataset in the cleanest way possible, easy to read and understand.
 
-But Pandas also offers other methods to simplify data visualization, let's start with the `file.head()` function.
+But Pandas also offers other methods to simplify data visualization, let's start with the `head()` function.
 
 ## 📝 Instructions:
 
