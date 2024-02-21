@@ -6,7 +6,7 @@ Are there more male or female names in the dataset?
 
 1. Use the `value_counts` function to get the `Gender` value count.
 
-## Expected Result:
+## 💻 Expected Result:
 
 ```bash
 F    558846
