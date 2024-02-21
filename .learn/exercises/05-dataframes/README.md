@@ -11,10 +11,10 @@ import pandas as pd
 # Two-dimensional array of [name, age] values
 data = [['Alex', 10], ['Bob', 12], ['Clarke', 13]]
 
-# Create the dataframe and name the columns
+# Create the DataFrame and name the columns
 df = pd.DataFrame(data, columns=['Name', 'Age'])
 
-# Print the dataframe
+# Print the DataFrame
 print(df)
 ```
 
@@ -23,7 +23,7 @@ print(df)
 1. Please create and print a DataFrame with the following data. The column labels will be: `Brand, Model, Color`
 
 ```python
-data = [["Toyota", "Corolla", "Blue"], ["Ford", "K", "Yellow"], ["Porche", "Cayenne", "White"]]
+data = [["Toyota", "Corolla", "Blue"], ["Ford", "K", "Yellow"], ["Porsche", "Cayenne", "White"]]
 ```
 
 ## 💻 Expected Result:
@@ -31,8 +31,8 @@ data = [["Toyota", "Corolla", "Blue"], ["Ford", "K", "Yellow"], ["Porche", "Caye
 Run your code in the terminal and the output should be similar to this:
 
 ```bash
-    Brand     Model   Color
-0  Toyota  Corolla    Blue
-1    Ford        K  Yellow
-2  Porche  Cayenne   White
+     Brand    Model   Color
+0   Toyota  Corolla    Blue
+1     Ford        K  Yellow
+2  Porsche  Cayenne   White
 ```
