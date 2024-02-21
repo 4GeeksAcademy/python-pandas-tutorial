@@ -8,8 +8,6 @@ Vamos a empezar un nuevo ejercicio para limpiar un Dataset conocido públicament
 
 2. Primero, vamos a entender el Dataset imprimiendo las primeras 5 filas.
 
-3. Imprime los primeros 5 registros en la línea de comando.
-
 ## 💻 Resultado Esperado:
 
 ```bash
