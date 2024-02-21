@@ -12,7 +12,7 @@ import pandas as pd
 data = [['Alex', 10], ['Bob', 12], ['Clarke', 13]]
 
 # Create the dataframe and name the columns
-df = pd.DataFrame(data, columns = ['Name', 'Age'])
+df = pd.DataFrame(data, columns=['Name', 'Age'])
 
 # Print the dataframe
 print(df)
