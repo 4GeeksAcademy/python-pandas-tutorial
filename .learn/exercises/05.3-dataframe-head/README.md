@@ -1,4 +1,4 @@
-# `05.3` Function Head 
+# `05.3` DataFrame Head 
 
 As you can see from the previous step, Pandas makes an effort to display the Dataset in the cleanest way possible, easy to read and understand.
 
