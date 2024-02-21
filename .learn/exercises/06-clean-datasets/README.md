@@ -8,8 +8,6 @@ Let's start a new exercise to clean up a publicly known Dataset of [US baby name
    
 2. First, let's understand the Dataset by printing the first 5 rows.
 
-3. Print the first 5 records on the command line.
-
 ## 💻 Expected Result:
 
 ```bash
