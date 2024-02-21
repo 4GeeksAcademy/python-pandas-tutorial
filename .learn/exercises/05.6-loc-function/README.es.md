@@ -1,18 +1,19 @@
 # `05.6` Loc Function 
 
-Puedes usar la función `data_frame.loc` para filtrar registros usando operaciones lógicas como índices, así:
+Puedes usar la función `loc` para filtrar registros usando operaciones lógicas como índices, así:
 
 ```python
-# conseguir personas mayores de 18 años
-data_frame.loc[data_frame['age'] < 18]
+# Conseguir personas mayores de 18 años
+data_frame.loc[data_frame['age'] > 18]
 ```
 
 ## 📝 Instrucciones:
 
 1. Usa la misma variable de DataFrame que usaste en el ejercicio anterior.
-2. Usando la función `loc`, imprime en el terminal todos los pokemons con un ataque de mas de 80.
 
-## Resultado Esperado: 
+2. Usando la función `loc`, imprime en el terminal todos los pokemons con un ataque de más de 80.
+
+## 💻 Resultado Esperado: 
 
 ```bash
        #                       Name   Type 1  Type 2  HP  Attack  Defense  Sp. Atk  Sp. Def  Speed  Generation  Legendary
