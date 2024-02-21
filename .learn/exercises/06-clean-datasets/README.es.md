@@ -1,16 +1,16 @@
 # `06` Clean Datasets
 
-Vamos a empezar un nuevo ejercicio limpio para limpiar un Dataset conocido públicamente sobre [nombres de bebés de EE. UU.](https://www.kaggle.com/kaggle/us-baby-names) de Kaggle.
+Vamos a empezar un nuevo ejercicio para limpiar un Dataset conocido públicamente sobre [nombres de bebés de EE. UU.](https://www.kaggle.com/kaggle/us-baby-names) de Kaggle.
 
 ## 📝 Instrucciones:
 
-1. Primero, vamos a entender el Dataset imprimiendo las primeras 10 filas.
+1. Importa el Dataset `.learn/assets/us_baby_names_right.csv`.
 
-2. Importa el Dataset `.learn/assets/us_baby_names_right.csv`.
+2. Primero, vamos a entender el Dataset imprimiendo las primeras 5 filas.
 
 3. Imprime los primeros 5 registros en la línea de comando.
 
-## Resultado Esperado:
+## 💻 Resultado Esperado:
 
 ```bash
    Unnamed: 0     Id     Name  Year Gender State  Count
