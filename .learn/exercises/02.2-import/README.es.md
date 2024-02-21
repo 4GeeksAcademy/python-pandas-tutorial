@@ -10,7 +10,7 @@ El comando `import` está destinado para cargar librerías de terceros (como Pan
 
 2. Crea una variable llamada `data_frame`.
 
-3. Utiliza la función de Pandas `read_csv` para importar el contenido del archivo CSV en esta ruta `.learn/assets/pokemon_data.csv` y asignalo a la variable `data_frame`
+3. Utiliza la función de Pandas `read_csv` para importar el contenido del archivo CSV en esta ruta `.learn/assets/pokemon_data.csv` y asígnalo a la variable `data_frame`
 
 4. Imprime la variable en el terminal usando la función `print`.
 
