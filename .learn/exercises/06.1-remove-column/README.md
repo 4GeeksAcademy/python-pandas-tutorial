@@ -8,7 +8,7 @@ We can see that the first column of the Dataset is called "Unnamed: 0" and it co
 
 2. Print the first 5 records again.
 
-## Expected Result:
+## 💻 Expected Result:
 
 ```bash
       Id     Name  Year Gender State  Count
