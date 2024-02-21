@@ -18,4 +18,4 @@ La salida de tu terminal debería verse así:
 
 ## 💡 Pista: 
 
-+ Lee la documentación de `dataframe.head` [aquí](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.head.html?highlight=head#pandas.DataFrame.head), para aprender como usarlo.
++ Lee la documentación de `dataframe.head` [aquí](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.head.html#pandas-dataframe-head), para aprender como usarlo.
