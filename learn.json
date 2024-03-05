@@ -12,5 +12,8 @@
     "us": "Pandas for Machine Learning",
     "es": "Pandas para Machine Learning"
   },
-  "slug": "pandas-for-machine-learning"
+  "slug": "pandas-for-machine-learning",
+  "editor": {
+    "version":"3.1.9"
+  }
 }
