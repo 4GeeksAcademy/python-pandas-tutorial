@@ -1,6 +1,6 @@
 # `04` Series
 
-A series is similar to an array or list, it's a one dimentional data structure.
+A series is similar to an array or list; it's a one-dimensional data structure.
 
 You can create a series like this:
 
@@ -10,7 +10,7 @@ data = pd.Series([1, 94, 85, 31, 23, 8])
 
 The result of printing `data` on the terminal will be something like this: 
 
-```shell
+```bash
 0     1
 1    94
 2    85
@@ -22,9 +22,13 @@ dtype: int64
 
 ## 📝 Instructions:
 
-Create a series from this list: `ages = [23,45,7,34,6,63,36,78,54,34]`
+1. Copy this Python list of ages to your code: `[23,45,7,34,6,63,36,78,54,34]`
 
-## Expected Result:
+2. Create a Series from the given list.
+
+3. Print your new Series on the console.
+
+## 💻 Expected Result:
 
 ```bash
 0    23

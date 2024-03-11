@@ -20,9 +20,9 @@ def test_output():
 def test_expected_output(capsys):
     import app
     captured = capsys.readouterr()
-    assert   """    brand     make   color
-0  Toyota  Corolla    Blue
-1    Ford        K  Yellow
-2  Porche  Cayenne   White
-3   Tesla  Model S     Red
+    assert   """    brand    model   color
+0   Toyota  Corolla    Blue
+1     Ford        K  Yellow
+2  Porsche  Cayenne   White
+3    Tesla  Model S     Red
 """ in captured.out

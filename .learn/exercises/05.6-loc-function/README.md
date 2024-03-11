@@ -1,18 +1,19 @@
 # `05.6` Loc Function 
 
-You can also use the `data_frame.loc` function to filter records using logical operations as indexes, like this:
+You can also use the `loc` function to filter records using logical operations as indexes, like this:
 
 ```python
-# get people more than 18 years old
+# Get people older than 18 years old
 data_frame.loc[data_frame['age'] > 18]
 ```
 
 ## 📝 Instructions:
 
 1. Use the same DataFrame variable you used in the previous exercise.
+
 2. Using the `loc` function, print on the terminal all pokemons with an attack of more than 80.
 
-## Expected Result:
+## 💻 Expected Result:
 
 ```bash
        #                       Name   Type 1  Type 2  HP  Attack  Defense  Sp. Atk  Sp. Def  Speed  Generation  Legendary

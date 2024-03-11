@@ -1,6 +1,6 @@
 # `04.2` Series Apply
 
-Dada una serie variable como:
+Dada una variable que contiene una serie:
 
 ```py
 my_series = pd.Series([2, 4, 6, 8, 10])
@@ -10,7 +10,7 @@ my_series = pd.Series([2, 4, 6, 8, 10])
 
 1. Usa la función `my_series.apply` para dividir todos los números de la siguiente serie por 2 e imprime el resultado a la terminal.
 
-## Resultado Esperado:
+## 💻 Resultado Esperado:
 
 ```bash
 0    1.0

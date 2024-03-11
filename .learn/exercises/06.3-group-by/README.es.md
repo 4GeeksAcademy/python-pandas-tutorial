@@ -6,10 +6,12 @@
 
 1. Usa la función de DataFrame `groupby`, para agrupar tu tabla por nombre.
 
-2. Usa la función `sum()` disponible después de agrupar, para contar el número de ocurrencias agrupadas.
+2. Usa la función `sum()` después de agrupar, para contar el número de ocurrencias agrupadas.
 
 3. Usa la función `len(result)` para contar el número de grupos.
 
-## Resultado Esperado:
+## 💻 Resultado Esperado:
 
-`17632`
+```bash
+17632
+```

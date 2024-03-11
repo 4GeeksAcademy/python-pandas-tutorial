@@ -32,7 +32,3 @@ def test_expected_output(capsys):
 9    34
 dtype: int64
 """ in captured.out 
-
-@pytest.mark.it('The variable ages must exist')
-def test_vatiable_existence():
-    from app import ages
