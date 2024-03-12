@@ -1,30 +1,28 @@
 import pandas as pd
-# two dimensional array of name,age values.
+
 data = [
     { 
         "brand": "Toyota", 
-        "make": "Corolla",
+        "model": "Corolla",
         "color": "Blue"
     },
     {
         "brand": "Ford", 
-        "make": "K",
+        "model": "K",
         "color": "Yellow"
     },
     {
-        "brand": "Porche", 
-        "make": "Cayenne",
+        "brand": "Porsche", 
+        "model": "Cayenne",
         "color": "White"
     },
     {
         "brand": "Tesla", 
-        "make": "Model S",
+        "model": "Model S",
         "color": "Red"
     }
 ]
 
-# create the dataframe and name the columns
 df = pd.DataFrame(data)
 
-# print the dataframe
 print(df)

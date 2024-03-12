@@ -8,7 +8,7 @@ We can see that the first column of the Dataset is called "Unnamed: 0" and it co
 
 2. Print the first 5 records again.
 
-## Expected Result:
+## 💻 Expected Result:
 
 ```bash
       Id     Name  Year Gender State  Count
@@ -18,3 +18,7 @@ We can see that the first column of the Dataset is called "Unnamed: 0" and it co
 3  11353    Grace  2004      F    AK     44
 4  11354    Emily  2004      F    AK     41
 ```
+
+## 💡 Hint:
+
++ Try to solve the exercise by yourself at first; if you can't after a bit of time, read [this](https://thispointer.com/pandas-delete-first-column-of-dataframe-in-python/) article.

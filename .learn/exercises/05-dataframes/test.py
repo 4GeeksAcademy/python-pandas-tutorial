@@ -17,14 +17,14 @@ def test_output():
         assert bool(regex.search(content)) == True
 
 
-@pytest.mark.it('The output should be the expected.')
+@pytest.mark.it('The output should be the expected')
 def test_expected_output(capsys):
     import app
     captured = capsys.readouterr()
     assert  """    Brand    Model   Color
-0  Toyota  Corolla    Blue
-1    Ford        K  Yellow
-2  Porche  Cayenne   White
+0   Toyota  Corolla    Blue
+1     Ford        K  Yellow
+2  Porsche  Cayenne   White
 """ in captured.out
 
 @pytest.mark.it('The variable data should exist')

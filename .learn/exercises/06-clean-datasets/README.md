@@ -1,16 +1,14 @@
 # `06` Clean Datasets
 
-Let's start a new clean exercise to clean up a publicly known Dataset of [US baby names](https://www.kaggle.com/kaggle/us-baby-names) from Kaggle.
+Let's start a new exercise to clean up a publicly known Dataset of [US baby names](https://www.kaggle.com/kaggle/us-baby-names) from Kaggle.
 
 ## 📝 Instructions:
 
 1. Import the `.learn/assets/us_baby_names_right.csv` Dataset.
    
-2. First, lets understand the Dataset by printing the first 10 rows.
+2. First, let's understand the Dataset by printing the first 5 rows.
 
-3. Print the first 5 records on the command line.
-
-## Expected Result:
+## 💻 Expected Result:
 
 ```bash
    Unnamed: 0     Id     Name  Year Gender State  Count
