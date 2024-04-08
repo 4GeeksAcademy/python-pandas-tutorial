@@ -2,7 +2,7 @@
 
 Pandas is the best and most popular [Python](https://4geeks.com/lesson/intro-to-python) library for machine learning. This library offers a wide variety of functions that will help you manipulate data, optimize your machine-learning algorithm, and much more. This tutorial will help you to get familiar with this library and master the most used functionalities with code samples and video tutorials that will help you to create your first data frame, clean a dataset of information, read CSV files, etc... 
 
-The exercises in this tutorial have been created after about 60 hours of development by many experts in machine learning and carefully reviewed by our [contributors](https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors) to make sure you have the most accurate and important information that will help you start your machine learning career. 
+The exercises in this tutorial have been created after about 60 hours of development by many experts in machine learning and they have been carefully reviewed by our [contributors](https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors) to make sure you have the most accurate and important information that will help you start your machine learning career. 
 
 ## Content table
 
