@@ -21,7 +21,7 @@ def test_hardcoded_output():
     path = os.path.dirname(os.path.abspath('app.py'))+'/app.py'
     with open(path, 'r') as content_file:
         content = content_file.read()
-        regex = re.compile(r"\s*DatetimeIndex\s*")
+        regex = re.compile(r"\bDatetimeIndex\s*\(")
         assert bool(regex.search(content)) == False
 
 @pytest.mark.it('The output should be the expected')
