@@ -1,3 +1,4 @@
+
 {
   "grading": "incremental",
   "disabledActions": ["build"],
@@ -14,6 +15,9 @@
   },
   "slug": "pandas-for-machine-learning",
   "editor": {
-    "version":"3.1.23"
+    "version":"3.1.36"
+  },
+  "telemetry": {
+    "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry"
   }
 }
