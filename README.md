@@ -48,13 +48,13 @@ node --version
  
 ```bash
 > npm i learnpack -g
-> learnpack plugins:install learnpack-python
+> learnpack plugins:install @learnpack/python
 ```
 
 4. Finally, Install Jest to perform the necessary tests throughout the tutorial and start the exercises with the following commands:
 
 ```bash
-> npm i jest@24.8.0 -g
+> npm i jest@29.7.0 jest-environment-jsdom@29.7.0 -g
 > learnpack start
 ```
 
