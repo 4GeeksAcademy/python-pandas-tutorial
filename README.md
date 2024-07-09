@@ -54,9 +54,11 @@ node --version
 4. Finally, Install Jest to perform the necessary tests throughout the tutorial and start the exercises with the following commands:
 
 ```bash
-> npm i jest@29.7.0 jest-environment-jsdom@29.7.0 -g
+> pip3 install pytest==6.2.5 pytest-testdox mock
 > learnpack start
 ```
+> Pssst, you must have Python installed to make Python exercises :)
+
 
 ## Contributors
 
