@@ -9,6 +9,7 @@
     "us": "Learn the basics and become comfortable using pandas for manipulating machine learning datasets.",
     "es": "Aprende lo básico y empieza a sentirte cómodo usando pandas y manipulando datasets de machine learning."
   },
+  "technologies": ["pandas", "machine learning", "data science", "python"],
   "title": {
     "us": "Pandas for Machine Learning",
     "es": "Pandas para Machine Learning"
