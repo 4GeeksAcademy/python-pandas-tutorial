@@ -4,7 +4,7 @@ Pandas is the best and most popular [Python](https://4geeks.com/lesson/intro-to-
 
 > This Pandas tutorial [is interactive using LearnPack](https://4geeks.com/learnpack) and also features an [AI mentor named Rigobot](https://4geeks.com/rigobot), which reads your code and answers all your questions immediately.
 
-The exercises in this tutorial have been created after about 60 hours of development by many experts in machine learning and carefully reviewed by our [contributors](https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors) to make sure you have the most accurate and important information that will help you start your machine learning career. 
+The exercises in this tutorial have been created after about 60 hours of development by many experts in machine learning and they have been carefully reviewed by our [contributors](https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors) to make sure you have the most accurate and important information that will help you start your machine learning career. 
 
 ## Content table
 
