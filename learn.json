@@ -6,17 +6,17 @@
   "difficulty": "beginner",
   "duration": 3,
   "description": {
-    "us": "Learn the basics and become comfortable using pandas for manipulating machine learning datasets.",
-    "es": "Aprende lo básico y empieza a sentirte cómodo usando pandas y manipulando datasets de machine learning."
+    "us": "Master Pandas, the most popular Python library for machine learning, with our pandas tutorial exercises. Learn to create DataFrames, clean datasets, and more, with exercises developed by experts.",
+    "es": "Domina Pandas, la biblioteca más popular de Python para machine learning, con nuestro tutorial de python pandas. Aprende a crear DataFrames, limpiar datasets y más, con ejercicios desarrollados en 80 horas."
   },
   "technologies": ["pandas", "machine learning", "data science", "python"],
   "title": {
-    "us": "Pandas for Machine Learning",
-    "es": "Pandas para Machine Learning"
+    "us": "Pandas tutorial exercises",
+    "es": "Tutorial de Pandas: Interactivo, auto-corregido y con mentor de inteligencia artificial"
   },
   "slug": "pandas-for-machine-learning",
   "editor": {
-    "version":"3.1.40"
+    "version":"3.1.43"
   },
   "telemetry": {
     "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry"
