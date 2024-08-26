@@ -25,5 +25,5 @@ RUN echo "unset DATABASE_URL" >> $HOME/.bashrc
 RUN echo "export DATABASE_URL" >> $HOME/.bashrc
 
 RUN pip3 install pytest==6.2.5 pytest-testdox mock
-RUN npm i @learnpack/learnpack@4.0.8 -g && learnpack plugins:install @learnpack/python@1.0.5
+RUN npm i @learnpack/learnpack@4.0.9 -g && learnpack plugins:install @learnpack/python@1.0.5
 
