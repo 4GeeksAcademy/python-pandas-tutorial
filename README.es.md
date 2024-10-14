@@ -10,7 +10,7 @@ Los ejercicios en este tutorial han sido creados en aproximadamente 80 horas de 
 
 ## Contenidos a revisar en el tutorial de pandas
 
-En este tutorial, veremos las funciones más importantes y básicas proporcionadas por Pandas que te ayudarán a trabajar con datos en machine learning. A continuación, algunos de los temas que se cubrirán en este tutorial son:
+En este tutorial, veremos las funciones más importantes y basicas proporcionadas por Pandas que te ayudarán a trabajar con datos en machine learning. A continuación, algunos de los temas que se cubrirán en este tutorial son:
 
 | Ejercicio     | Descripción del tema                                                                                                    |
 |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
