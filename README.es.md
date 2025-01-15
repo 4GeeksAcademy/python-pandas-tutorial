@@ -22,7 +22,7 @@ En este tutorial, veremos las funciones más importantes y básicas proporcionad
 
 ## 🌱 ¿Cómo iniciar este tutorial de pandas?
 
-Puedes iniciar este tutorial rapidamente usando nuestra tecnologia `aprende en un clic` para tu maquina local o en la nube en 2 pasos sencillos, [haz click aqui para empezar](https://s.4geeks.com/start?repo=https://github.com/4GeeksAcademy/python-pandas-tutorial&lang=es&utm_source=github&utm_medium=organic&utm_content=readme).
+Puedes iniciar este tutorial rápidamente usando nuestra tecnología `aprende en un clic` para tu máquina local o en la nube en 2 pasos sencillos, [haz click aqui para empezar](https://s.4geeks.com/start?repo=https://github.com/4GeeksAcademy/python-pandas-tutorial&lang=es&utm_source=github&utm_medium=organic&utm_content=readme).
 
 ## Colaboradores
 
