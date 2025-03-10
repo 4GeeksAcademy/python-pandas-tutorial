@@ -4,7 +4,7 @@
 
 Pandas es la mejor y más popular biblioteca de [Python](https://4geeks.com/es/lesson/que-es-python-tutorial) para machine learning. Esta biblioteca ofrece una amplia variedad de funciones que te ayudarán a manipular datos, optimizar tu algoritmo de machine learning y mucho más. Este **tutorial de python pandas** te ayudaremos a familiarizarte con esta biblioteca y dominar las funcionalidades más utilizadas con ejemplos de código y tutoriales en video que te ayudarán a crear tu primer marco de datos (data frame), limpiar un dataset de información, leer archivos CSV, entre otras cosas...
 
-> Este tutorial de pandas [es interactivo usando LearnPack](https://4geeks.com/es/learnpack-es) y tambien cuenta con un [mentor AI llamado Rigobot](https://4geeks.com/es/rigobot), que lee tu codigo y responde todas tus preguntas inmediatamente.
+> Este tutorial de pandas [es interactivo usando LearnPack](https://4geeks.com/es/learnpack-es) y también cuenta con un [mentor AI llamado Rigobot](https://4geeks.com/es/rigobot), que lee tu código y responde todas tus preguntas inmediatamente.
 
 Los ejercicios en este tutorial han sido creados en aproximadamente 80 horas de desarrollo por expertos en machine learning y revisados cuidadosamente por nuestros [colaboradores](https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors) para asegurarnos de que tengas la información más precisa e importante que te ayudará a comenzar tu carrera en machine learning.
 
