@@ -28,8 +28,15 @@ def test_hardcoded_output():
 def test_expected_output(capsys):
     import app
     captured = capsys.readouterr()
-    assert   """DatetimeIndex(['2021-05-01', '2021-05-02', '2021-05-03', '2021-05-04',
+    # pandas >= 2.0 uses 'datetime64[us]', older versions use 'datetime64[ns]'
+    expected_ns = """DatetimeIndex(['2021-05-01', '2021-05-02', '2021-05-03', '2021-05-04',
                '2021-05-05', '2021-05-06', '2021-05-07', '2021-05-08',
                '2021-05-09', '2021-05-10', '2021-05-11', '2021-05-12'],
               dtype='datetime64[ns]', freq='D')
-""" in captured.out
+"""
+    expected_us = """DatetimeIndex(['2021-05-01', '2021-05-02', '2021-05-03', '2021-05-04',
+               '2021-05-05', '2021-05-06', '2021-05-07', '2021-05-08',
+               '2021-05-09', '2021-05-10', '2021-05-11', '2021-05-12'],
+              dtype='datetime64[us]', freq='D')
+"""
+    assert expected_ns in captured.out or expected_us in captured.out
